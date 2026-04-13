@@ -41,6 +41,10 @@ jobs:
         working-directory: apps/server
         run: python manage.py migrate --run-syncdb
 
+      - name: Create blocked domains seed file
+        run: |
+          if not exist proxy\blocked_domains.txt type nul > proxy\blocked_domains.txt
+
       - name: Build backend executable
         working-directory: apps/server
         run: pyinstaller --noconfirm --clean backend.spec

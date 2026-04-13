@@ -34,6 +34,7 @@ hiddenimports += ["pyuac", "wmi", "pythoncom", "icoextract", "PIL", "win32com"]
 datas = [
     (str((BASE_DIR / "db.sqlite3")), "."),
     (str((ROOT_DIR / "proxy" / "dns_proxy.py")), "proxy"),
+    (str((ROOT_DIR / "proxy" / "blocked_domains.txt")), "proxy"),
 ]
 
 a = Analysis(
