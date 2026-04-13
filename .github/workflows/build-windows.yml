@@ -43,7 +43,7 @@ jobs:
 
       - name: Create blocked domains seed file
         run: |
-          if not exist proxy\blocked_domains.txt type nul > proxy\blocked_domains.txt
+          if (!(Test-Path proxy/blocked_domains.txt)) { New-Item -Path proxy/blocked_domains.txt -ItemType File -Force }
 
       - name: Build backend executable
         working-directory: apps/server
