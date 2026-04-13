@@ -3,6 +3,7 @@ waitress>=3.0.0,<3.1
 django-cors-headers>=4.4.0,<4.5
 pyuac>=0.0.3,<0.0.4
 pywin32>=308
+wmi>=1.5.1
 
 
 
