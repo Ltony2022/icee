@@ -1,0 +1,5497 @@
+Application Name: svchost.exe
+Application Source: None
+PID: 10652
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "svchost.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011025.761172+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "svchost.exe";
+	Handle = "10652";
+	HandleCount = 283;
+	KernelModeTime = "2343750";
+	Name = "svchost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "378";
+	OtherTransferCount = "56163";
+	PageFaults = 5901;
+	PageFileUsage = 6776;
+	ParentProcessId = 1572;
+	PeakPageFileUsage = 6776;
+	PeakVirtualSize = "2203460841472";
+	PeakWorkingSetSize = 21988;
+	Priority = 8;
+	PrivatePageCount = "6938624";
+	ProcessId = 10652;
+	QuotaNonPagedPoolUsage = 18;
+	QuotaPagedPoolUsage = 142;
+	QuotaPeakNonPagedPoolUsage = 23;
+	QuotaPeakPagedPoolUsage = 146;
+	ReadOperationCount = "8";
+	ReadTransferCount = "74446";
+	SessionId = 0;
+	ThreadCount = 9;
+	UserModeTime = "937500";
+	VirtualSize = "2203460833280";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "22515712";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: conhost.exe
+Application Source: None
+PID: 22516
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "conhost.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011027.608981+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "conhost.exe";
+	Handle = "22516";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	Name = "conhost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "59";
+	OtherTransferCount = "2444";
+	PageFaults = 2126;
+	PageFileUsage = 148;
+	ParentProcessId = 35640;
+	PeakPageFileUsage = 1224;
+	PeakVirtualSize = "2203416489984";
+	PeakWorkingSetSize = 8164;
+	Priority = 8;
+	PrivatePageCount = "151552";
+	ProcessId = 22516;
+	QuotaNonPagedPoolUsage = 1;
+	QuotaPagedPoolUsage = 6;
+	QuotaPeakNonPagedPoolUsage = 8;
+	QuotaPeakPagedPoolUsage = 113;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "468750";
+	VirtualSize = "2531328";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "32768";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 24244
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011027.120260+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "24244";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1356;
+	PageFileUsage = 8364;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 8364;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4884;
+	Priority = 8;
+	PrivatePageCount = "8564736";
+	ProcessId = 24244;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4431872";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: smartscreen.exe
+Application Source: C:\Windows\System32\smartscreen.exe
+PID: 26480
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "smartscreen.exe";
+	CommandLine = "C:\\Windows\\System32\\smartscreen.exe -Embedding";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011026.914758+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "smartscreen.exe";
+	ExecutablePath = "C:\\Windows\\System32\\smartscreen.exe";
+	Handle = "26480";
+	HandleCount = 191;
+	KernelModeTime = "625000";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "smartscreen.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "111";
+	OtherTransferCount = "10017";
+	PageFaults = 4441;
+	PageFileUsage = 5724;
+	ParentProcessId = 1756;
+	PeakPageFileUsage = 5724;
+	PeakVirtualSize = "2203472547840";
+	PeakWorkingSetSize = 16344;
+	Priority = 8;
+	PrivatePageCount = "5861376";
+	ProcessId = 26480;
+	QuotaNonPagedPoolUsage = 14;
+	QuotaPagedPoolUsage = 165;
+	QuotaPeakNonPagedPoolUsage = 14;
+	QuotaPeakPagedPoolUsage = 166;
+	ReadOperationCount = "1";
+	ReadTransferCount = "7946";
+	SessionId = 1;
+	ThreadCount = 5;
+	UserModeTime = "468750";
+	VirtualSize = "2203472531456";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "16719872";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 4784
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011027.907092+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "4784";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1356;
+	PageFileUsage = 8364;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 8364;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4900;
+	Priority = 8;
+	PrivatePageCount = "8564736";
+	ProcessId = 4784;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4431872";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 14668
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011028.929224+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "14668";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1357;
+	PageFileUsage = 8372;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 8372;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4900;
+	Priority = 8;
+	PrivatePageCount = "8572928";
+	ProcessId = 14668;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4435968";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: conhost.exe
+Application Source: C:\WINDOWS\system32\conhost.exe
+PID: 27120
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "conhost.exe";
+	CommandLine = "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011029.316839+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "conhost.exe";
+	ExecutablePath = "C:\\WINDOWS\\system32\\conhost.exe";
+	Handle = "27120";
+	HandleCount = 99;
+	KernelModeTime = "156250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "conhost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "35";
+	OtherTransferCount = "1338";
+	PageFaults = 2040;
+	PageFileUsage = 1216;
+	ParentProcessId = 38444;
+	PeakPageFileUsage = 1224;
+	PeakVirtualSize = "2203416489984";
+	PeakWorkingSetSize = 7808;
+	Priority = 8;
+	PrivatePageCount = "1245184";
+	ProcessId = 27120;
+	QuotaNonPagedPoolUsage = 8;
+	QuotaPagedPoolUsage = 110;
+	QuotaPeakNonPagedPoolUsage = 8;
+	QuotaPeakPagedPoolUsage = 111;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 2;
+	UserModeTime = "625000";
+	VirtualSize = "2203416489984";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "7995392";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: C:\Program Files\Git\mingw64\bin\git.exe
+PID: 31012
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CommandLine = "git.exe -c core.fsmonitor=false --no-optional-locks --no-pager stash list --pretty=format:%gd%x00%H%x00%ct%x00%s";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011029.417839+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	ExecutablePath = "C:\\Program Files\\Git\\mingw64\\bin\\git.exe";
+	Handle = "31012";
+	HandleCount = 15;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 521;
+	PageFileUsage = 868;
+	ParentProcessId = 38444;
+	PeakPageFileUsage = 868;
+	PeakVirtualSize = "11448320";
+	PeakWorkingSetSize = 1992;
+	Priority = 8;
+	PrivatePageCount = "888832";
+	ProcessId = 31012;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 38;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 38;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "11448320";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "2039808";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: C:\Program Files\Git\cmd\git.exe
+PID: 38444
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CommandLine = "\"C:\\Program Files\\Git\\cmd\\git.exe\" -c core.fsmonitor=false --no-optional-locks --no-pager stash list --pretty=format:%gd%x00%H%x00%ct%x00%s";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011029.278313+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	ExecutablePath = "C:\\Program Files\\Git\\cmd\\git.exe";
+	Handle = "38444";
+	HandleCount = 129;
+	KernelModeTime = "312500";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "69";
+	OtherTransferCount = "2246";
+	PageFaults = 2095;
+	PageFileUsage = 1780;
+	ParentProcessId = 29152;
+	PeakPageFileUsage = 1788;
+	PeakVirtualSize = "4409552896";
+	PeakWorkingSetSize = 8116;
+	Priority = 8;
+	PrivatePageCount = "1822720";
+	ProcessId = 38444;
+	QuotaNonPagedPoolUsage = 23;
+	QuotaPagedPoolUsage = 158;
+	QuotaPeakNonPagedPoolUsage = 23;
+	QuotaPeakPagedPoolUsage = 158;
+	ReadOperationCount = "17";
+	ReadTransferCount = "1685";
+	SessionId = 1;
+	ThreadCount = 4;
+	UserModeTime = "156250";
+	VirtualSize = "4409552896";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "8310784";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: None
+PID: 21656
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011030.412819+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	Handle = "21656";
+	HandleCount = 66;
+	KernelModeTime = "625000";
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "98";
+	OtherTransferCount = "3202";
+	PageFaults = 2408;
+	PageFileUsage = 1740;
+	ParentProcessId = 29152;
+	PeakPageFileUsage = 1788;
+	PeakVirtualSize = "4409552896";
+	PeakWorkingSetSize = 9364;
+	Priority = 8;
+	PrivatePageCount = "1781760";
+	ProcessId = 21656;
+	QuotaNonPagedPoolUsage = 8;
+	QuotaPagedPoolUsage = 114;
+	QuotaPeakNonPagedPoolUsage = 23;
+	QuotaPeakPagedPoolUsage = 158;
+	ReadOperationCount = "28";
+	ReadTransferCount = "3281";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "312500";
+	VirtualSize = "4388577280";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "9588736";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 34272
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011030.265380+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "34272";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1356;
+	PageFileUsage = 8360;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 8360;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4900;
+	Priority = 8;
+	PrivatePageCount = "8560640";
+	ProcessId = 34272;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4431872";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 40720
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011030.715316+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "40720";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1356;
+	PageFileUsage = 8364;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 8364;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4900;
+	Priority = 8;
+	PrivatePageCount = "8564736";
+	ProcessId = 40720;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4431872";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: None
+PID: 42596
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011030.390830+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	Handle = "42596";
+	HandleCount = 66;
+	KernelModeTime = "468750";
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "98";
+	OtherTransferCount = "3202";
+	PageFaults = 2398;
+	PageFileUsage = 1744;
+	ParentProcessId = 29152;
+	PeakPageFileUsage = 1788;
+	PeakVirtualSize = "4409552896";
+	PeakWorkingSetSize = 9324;
+	Priority = 8;
+	PrivatePageCount = "1785856";
+	ProcessId = 42596;
+	QuotaNonPagedPoolUsage = 8;
+	QuotaPagedPoolUsage = 114;
+	QuotaPeakNonPagedPoolUsage = 23;
+	QuotaPeakPagedPoolUsage = 158;
+	ReadOperationCount = "28";
+	ReadTransferCount = "3281";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "468750";
+	VirtualSize = "4388577280";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "9547776";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: conhost.exe
+Application Source: None
+PID: 5628
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "conhost.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011030.417547+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "conhost.exe";
+	Handle = "5628";
+	HandleCount = 99;
+	KernelModeTime = "0";
+	Name = "conhost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "44";
+	OtherTransferCount = "1812";
+	PageFaults = 2031;
+	PageFileUsage = 1232;
+	ParentProcessId = 42596;
+	PeakPageFileUsage = 1236;
+	PeakVirtualSize = "2203416489984";
+	PeakWorkingSetSize = 7768;
+	Priority = 8;
+	PrivatePageCount = "1261568";
+	ProcessId = 5628;
+	QuotaNonPagedPoolUsage = 8;
+	QuotaPagedPoolUsage = 109;
+	QuotaPeakNonPagedPoolUsage = 8;
+	QuotaPeakPagedPoolUsage = 112;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 2;
+	UserModeTime = "312500";
+	VirtualSize = "2203416489984";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "7954432";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: conhost.exe
+Application Source: None
+PID: 6260
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "conhost.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011030.439542+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "conhost.exe";
+	Handle = "6260";
+	HandleCount = 99;
+	KernelModeTime = "156250";
+	Name = "conhost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "44";
+	OtherTransferCount = "1812";
+	PageFaults = 2029;
+	PageFileUsage = 1216;
+	ParentProcessId = 21656;
+	PeakPageFileUsage = 1228;
+	PeakVirtualSize = "2203416489984";
+	PeakWorkingSetSize = 7768;
+	Priority = 8;
+	PrivatePageCount = "1245184";
+	ProcessId = 6260;
+	QuotaNonPagedPoolUsage = 8;
+	QuotaPagedPoolUsage = 109;
+	QuotaPeakNonPagedPoolUsage = 8;
+	QuotaPeakPagedPoolUsage = 112;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 2;
+	UserModeTime = "156250";
+	VirtualSize = "2203416489984";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "7954432";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 12280
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011031.324532+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "12280";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1356;
+	PageFileUsage = 8360;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 8360;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4900;
+	Priority = 8;
+	PrivatePageCount = "8560640";
+	ProcessId = 12280;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4431872";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: C:\Program Files\Git\cmd\git.exe
+PID: 17656
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CommandLine = "\"C:\\Program Files\\Git\\cmd\\git.exe\" -c core.fsmonitor=false --no-optional-locks --no-pager diff --numstat --no-renames HEAD -- apps/server/Output.txt";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011031.927275+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	ExecutablePath = "C:\\Program Files\\Git\\cmd\\git.exe";
+	Handle = "17656";
+	HandleCount = 133;
+	KernelModeTime = "468750";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "98";
+	OtherTransferCount = "3202";
+	PageFaults = 2107;
+	PageFileUsage = 1788;
+	ParentProcessId = 29152;
+	PeakPageFileUsage = 1796;
+	PeakVirtualSize = "4409552896";
+	PeakWorkingSetSize = 8160;
+	Priority = 8;
+	PrivatePageCount = "1830912";
+	ProcessId = 17656;
+	QuotaNonPagedPoolUsage = 9;
+	QuotaPagedPoolUsage = 158;
+	QuotaPeakNonPagedPoolUsage = 23;
+	QuotaPeakPagedPoolUsage = 158;
+	ReadOperationCount = "28";
+	ReadTransferCount = "3281";
+	SessionId = 1;
+	ThreadCount = 4;
+	UserModeTime = "156250";
+	VirtualSize = "4409552896";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "8355840";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: conhost.exe
+Application Source: C:\WINDOWS\system32\conhost.exe
+PID: 30836
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "conhost.exe";
+	CommandLine = "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011031.933369+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "conhost.exe";
+	ExecutablePath = "C:\\WINDOWS\\system32\\conhost.exe";
+	Handle = "30836";
+	HandleCount = 99;
+	KernelModeTime = "156250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "conhost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "44";
+	OtherTransferCount = "1812";
+	PageFaults = 2025;
+	PageFileUsage = 1216;
+	ParentProcessId = 35908;
+	PeakPageFileUsage = 1224;
+	PeakVirtualSize = "2203416489984";
+	PeakWorkingSetSize = 7748;
+	Priority = 8;
+	PrivatePageCount = "1245184";
+	ProcessId = 30836;
+	QuotaNonPagedPoolUsage = 8;
+	QuotaPagedPoolUsage = 109;
+	QuotaPeakNonPagedPoolUsage = 8;
+	QuotaPeakPagedPoolUsage = 112;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 2;
+	UserModeTime = "156250";
+	VirtualSize = "2203416489984";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "7933952";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: None
+PID: 35908
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011031.897090+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	Handle = "35908";
+	HandleCount = 66;
+	KernelModeTime = "312500";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "98";
+	OtherTransferCount = "3202";
+	PageFaults = 2405;
+	PageFileUsage = 1764;
+	ParentProcessId = 29152;
+	PeakPageFileUsage = 1808;
+	PeakVirtualSize = "4409552896";
+	PeakWorkingSetSize = 9344;
+	Priority = 8;
+	PrivatePageCount = "1806336";
+	ProcessId = 35908;
+	QuotaNonPagedPoolUsage = 8;
+	QuotaPagedPoolUsage = 118;
+	QuotaPeakNonPagedPoolUsage = 23;
+	QuotaPeakPagedPoolUsage = 162;
+	ReadOperationCount = "28";
+	ReadTransferCount = "3281";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "156250";
+	VirtualSize = "4388577280";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "9568256";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: None
+PID: 36216
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011032.076957+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	Handle = "36216";
+	HandleCount = 62;
+	KernelModeTime = "781250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "297";
+	OtherTransferCount = "7056";
+	PageFaults = 2684;
+	PageFileUsage = 34852;
+	ParentProcessId = 17656;
+	PeakPageFileUsage = 34888;
+	PeakVirtualSize = "5469437952";
+	PeakWorkingSetSize = 10344;
+	Priority = 8;
+	PrivatePageCount = "35688448";
+	ProcessId = 36216;
+	QuotaNonPagedPoolUsage = 11;
+	QuotaPagedPoolUsage = 87;
+	QuotaPeakNonPagedPoolUsage = 12;
+	QuotaPeakPagedPoolUsage = 130;
+	ReadOperationCount = "23";
+	ReadTransferCount = "11464";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "312500";
+	VirtualSize = "5448433664";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "10592256";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: conhost.exe
+Application Source: C:\WINDOWS\system32\conhost.exe
+PID: 39996
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "conhost.exe";
+	CommandLine = "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011031.962054+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "conhost.exe";
+	ExecutablePath = "C:\\WINDOWS\\system32\\conhost.exe";
+	Handle = "39996";
+	HandleCount = 100;
+	KernelModeTime = "312500";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "conhost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "43";
+	OtherTransferCount = "1772";
+	PageFaults = 2024;
+	PageFileUsage = 1216;
+	ParentProcessId = 17656;
+	PeakPageFileUsage = 1224;
+	PeakVirtualSize = "2203416489984";
+	PeakWorkingSetSize = 7752;
+	Priority = 8;
+	PrivatePageCount = "1245184";
+	ProcessId = 39996;
+	QuotaNonPagedPoolUsage = 8;
+	QuotaPagedPoolUsage = 110;
+	QuotaPeakNonPagedPoolUsage = 8;
+	QuotaPeakPagedPoolUsage = 112;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 2;
+	UserModeTime = "0";
+	VirtualSize = "2203416489984";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "7938048";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: conhost.exe
+Application Source: C:\WINDOWS\system32\conhost.exe
+PID: 17788
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "conhost.exe";
+	CommandLine = "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011033.484813+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "conhost.exe";
+	ExecutablePath = "C:\\WINDOWS\\system32\\conhost.exe";
+	Handle = "17788";
+	HandleCount = 99;
+	KernelModeTime = "312500";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "conhost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "33";
+	OtherTransferCount = "1246";
+	PageFaults = 2002;
+	PageFileUsage = 1208;
+	ParentProcessId = 37944;
+	PeakPageFileUsage = 1220;
+	PeakVirtualSize = "2203416489984";
+	PeakWorkingSetSize = 7672;
+	Priority = 8;
+	PrivatePageCount = "1236992";
+	ProcessId = 17788;
+	QuotaNonPagedPoolUsage = 8;
+	QuotaPagedPoolUsage = 110;
+	QuotaPeakNonPagedPoolUsage = 8;
+	QuotaPeakPagedPoolUsage = 111;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 2;
+	UserModeTime = "0";
+	VirtualSize = "2203416489984";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "7856128";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: C:\Program Files\Git\cmd\git.exe
+PID: 31324
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CommandLine = "\"C:\\Program Files\\Git\\cmd\\git.exe\" -c core.fsmonitor=false --no-optional-locks --no-pager status --porcelain=v1 --untracked-files=all --no-renames -z apps/server/Output.txt";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011033.439441+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	ExecutablePath = "C:\\Program Files\\Git\\cmd\\git.exe";
+	Handle = "31324";
+	HandleCount = 129;
+	KernelModeTime = "468750";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "68";
+	OtherTransferCount = "2058";
+	PageFaults = 2092;
+	PageFileUsage = 1800;
+	ParentProcessId = 29152;
+	PeakPageFileUsage = 1808;
+	PeakVirtualSize = "4409552896";
+	PeakWorkingSetSize = 8104;
+	Priority = 8;
+	PrivatePageCount = "1843200";
+	ProcessId = 31324;
+	QuotaNonPagedPoolUsage = 23;
+	QuotaPagedPoolUsage = 158;
+	QuotaPeakNonPagedPoolUsage = 23;
+	QuotaPeakPagedPoolUsage = 158;
+	ReadOperationCount = "17";
+	ReadTransferCount = "1685";
+	SessionId = 1;
+	ThreadCount = 4;
+	UserModeTime = "468750";
+	VirtualSize = "4409552896";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "8298496";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: C:\Program Files\Git\cmd\git.exe
+PID: 37944
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CommandLine = "\"C:\\Program Files\\Git\\cmd\\git.exe\" -c core.fsmonitor=false --no-optional-locks --no-pager diff --numstat --no-renames HEAD -- apps/server/Output.txt";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011033.462430+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	ExecutablePath = "C:\\Program Files\\Git\\cmd\\git.exe";
+	Handle = "37944";
+	HandleCount = 65;
+	KernelModeTime = "156250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "37";
+	OtherTransferCount = "1114";
+	PageFaults = 1521;
+	PageFileUsage = 1568;
+	ParentProcessId = 29152;
+	PeakPageFileUsage = 1568;
+	PeakVirtualSize = "4407480320";
+	PeakWorkingSetSize = 5824;
+	Priority = 8;
+	PrivatePageCount = "1605632";
+	ProcessId = 37944;
+	QuotaNonPagedPoolUsage = 8;
+	QuotaPagedPoolUsage = 155;
+	QuotaPeakNonPagedPoolUsage = 18;
+	QuotaPeakPagedPoolUsage = 155;
+	ReadOperationCount = "14";
+	ReadTransferCount = "1668";
+	SessionId = 1;
+	ThreadCount = 4;
+	UserModeTime = "156250";
+	VirtualSize = "4407480320";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "5963776";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: conhost.exe
+Application Source: C:\WINDOWS\system32\conhost.exe
+PID: 38544
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "conhost.exe";
+	CommandLine = "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011033.464585+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "conhost.exe";
+	ExecutablePath = "C:\\WINDOWS\\system32\\conhost.exe";
+	Handle = "38544";
+	HandleCount = 99;
+	KernelModeTime = "156250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "conhost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "35";
+	OtherTransferCount = "1338";
+	PageFaults = 2012;
+	PageFileUsage = 1216;
+	ParentProcessId = 31324;
+	PeakPageFileUsage = 1228;
+	PeakVirtualSize = "2203416489984";
+	PeakWorkingSetSize = 7700;
+	Priority = 8;
+	PrivatePageCount = "1245184";
+	ProcessId = 38544;
+	QuotaNonPagedPoolUsage = 8;
+	QuotaPagedPoolUsage = 110;
+	QuotaPeakNonPagedPoolUsage = 8;
+	QuotaPeakPagedPoolUsage = 111;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 2;
+	UserModeTime = "0";
+	VirtualSize = "2203416489984";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "7884800";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: None
+PID: 5024
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011033.533527+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	Handle = "5024";
+	HandleCount = 15;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 520;
+	PageFileUsage = 860;
+	ParentProcessId = 31324;
+	PeakPageFileUsage = 860;
+	PeakVirtualSize = "11448320";
+	PeakWorkingSetSize = 1988;
+	Priority = 8;
+	PrivatePageCount = "880640";
+	ProcessId = 5024;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 38;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 38;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "11448320";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "2035712";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: msedge.exe
+Application Source: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 23332
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "msedge.exe";
+	CommandLine = "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --extension-process --renderer-sub-type=extension --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1715 --time-ticks-at-unix-epoch=-1775829584506994 --launch-time-ticks=187857091563 --ssd-no-pressure-read-main-dll --metrics-shmem-handle=12784,i,1781134956425879688,16312898307319044739,2097152 --field-trial-handle=2452,i,8814271193030361873,16081187988559298748,262144 --variations-seed-version --pseudonymization-salt-handle=2456,i,11416656568789103730,2868290599527344147,4 --trace-process-track-uuid=3190710593338642529 --mojo-platform-channel-handle=4948 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011044.738778+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "msedge.exe";
+	ExecutablePath = "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe";
+	Handle = "23332";
+	HandleCount = 283;
+	KernelModeTime = "1718750";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "msedge.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "117";
+	OtherTransferCount = "13258";
+	PageFaults = 36931;
+	PageFileUsage = 90660;
+	ParentProcessId = 33004;
+	PeakPageFileUsage = 92232;
+	PeakVirtualSize = "3816301191168";
+	PeakWorkingSetSize = 116864;
+	Priority = 4;
+	PrivatePageCount = "92835840";
+	ProcessId = 23332;
+	QuotaNonPagedPoolUsage = 29;
+	QuotaPagedPoolUsage = 929;
+	QuotaPeakNonPagedPoolUsage = 29;
+	QuotaPeakPagedPoolUsage = 933;
+	ReadOperationCount = "251";
+	ReadTransferCount = "454012";
+	SessionId = 1;
+	ThreadCount = 28;
+	UserModeTime = "2968750";
+	VirtualSize = "3816299094016";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "119668736";
+	WriteOperationCount = "337";
+	WriteTransferCount = "48912";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 24616
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011047.509473+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "24616";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1357;
+	PageFileUsage = 8372;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 8372;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4884;
+	Priority = 8;
+	PrivatePageCount = "8572928";
+	ProcessId = 24616;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4435968";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 38244
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=259 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=187860014408 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190709229005710385 --mojo-platform-channel-handle=11772 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011047.660585+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "38244";
+	HandleCount = 192;
+	KernelModeTime = "625000";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "161";
+	OtherTransferCount = "14668";
+	PageFaults = 4979;
+	PageFileUsage = 8384;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 8384;
+	PeakVirtualSize = "2392743366656";
+	PeakWorkingSetSize = 17892;
+	Priority = 4;
+	PrivatePageCount = "8585216";
+	ProcessId = 38244;
+	QuotaNonPagedPoolUsage = 14;
+	QuotaPagedPoolUsage = 767;
+	QuotaPeakNonPagedPoolUsage = 14;
+	QuotaPeakPagedPoolUsage = 767;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 4;
+	UserModeTime = "0";
+	VirtualSize = "2392743366656";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "18321408";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 36484
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011048.951082+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "36484";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1357;
+	PageFileUsage = 8372;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 8372;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4900;
+	Priority = 8;
+	PrivatePageCount = "8572928";
+	ProcessId = 36484;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4435968";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 13052
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011049.763745+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "13052";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1356;
+	PageFileUsage = 8364;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 8364;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4900;
+	Priority = 8;
+	PrivatePageCount = "8564736";
+	ProcessId = 13052;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4431872";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 30872
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011050.973524+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "30872";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1356;
+	PageFileUsage = 8360;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 8360;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4900;
+	Priority = 8;
+	PrivatePageCount = "8560640";
+	ProcessId = 30872;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4431872";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 41204
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=260 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=187862681619 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190709229942752234 --mojo-platform-channel-handle=10060 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011050.327428+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "41204";
+	HandleCount = 283;
+	KernelModeTime = "781250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17070";
+	PageFaults = 12190;
+	PageFileUsage = 20644;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 20644;
+	PeakVirtualSize = "3816078643200";
+	PeakWorkingSetSize = 45040;
+	Priority = 4;
+	PrivatePageCount = "21139456";
+	ProcessId = 41204;
+	QuotaNonPagedPoolUsage = 27;
+	QuotaPagedPoolUsage = 787;
+	QuotaPeakNonPagedPoolUsage = 27;
+	QuotaPeakPagedPoolUsage = 787;
+	ReadOperationCount = "66";
+	ReadTransferCount = "205648";
+	SessionId = 1;
+	ThreadCount = 13;
+	UserModeTime = "312500";
+	VirtualSize = "3816078639104";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "46120960";
+	WriteOperationCount = "85";
+	WriteTransferCount = "14184";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 22988
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011051.557248+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "22988";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1357;
+	PageFileUsage = 8372;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 8372;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4900;
+	Priority = 8;
+	PrivatePageCount = "8572928";
+	ProcessId = 22988;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4435968";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: ssh.exe
+Application Source: C:\Program Files\Git\usr\bin\ssh.exe
+PID: 2040
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "ssh.exe";
+	CommandLine = "\"C:\\Program Files\\Git\\usr\\bin\\ssh.exe\" -i \"/c/Users/Nitro 5/.ssh/id_rsa\" -o SendEnv=GIT_PROTOCOL git@github.com \"git-upload-pack 'Ronaldo93/icee-utils-private.git'\"";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011055.636198+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "ssh.exe";
+	ExecutablePath = "C:\\Program Files\\Git\\usr\\bin\\ssh.exe";
+	Handle = "2040";
+	HandleCount = 463;
+	KernelModeTime = "781250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "ssh.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "765";
+	OtherTransferCount = "24210";
+	PageFaults = 3494;
+	PageFileUsage = 6832;
+	ParentProcessId = 5640;
+	PeakPageFileUsage = 6840;
+	PeakVirtualSize = "13534396416";
+	PeakWorkingSetSize = 13004;
+	Priority = 8;
+	PrivatePageCount = "6995968";
+	ProcessId = 2040;
+	QuotaNonPagedPoolUsage = 14;
+	QuotaPagedPoolUsage = 119;
+	QuotaPeakNonPagedPoolUsage = 224;
+	QuotaPeakPagedPoolUsage = 119;
+	ReadOperationCount = "44";
+	ReadTransferCount = "41962";
+	SessionId = 1;
+	ThreadCount = 9;
+	UserModeTime = "1406250";
+	VirtualSize = "13534396416";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "13316096";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: conhost.exe
+Application Source: C:\WINDOWS\system32\conhost.exe
+PID: 31408
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "conhost.exe";
+	CommandLine = "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011055.407963+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "conhost.exe";
+	ExecutablePath = "C:\\WINDOWS\\system32\\conhost.exe";
+	Handle = "31408";
+	HandleCount = 102;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "conhost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "71";
+	OtherTransferCount = "3220";
+	PageFaults = 2033;
+	PageFileUsage = 1232;
+	ParentProcessId = 36284;
+	PeakPageFileUsage = 1240;
+	PeakVirtualSize = "2203416489984";
+	PeakWorkingSetSize = 7780;
+	Priority = 8;
+	PrivatePageCount = "1261568";
+	ProcessId = 31408;
+	QuotaNonPagedPoolUsage = 8;
+	QuotaPagedPoolUsage = 114;
+	QuotaPeakNonPagedPoolUsage = 8;
+	QuotaPeakPagedPoolUsage = 114;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 2;
+	UserModeTime = "468750";
+	VirtualSize = "2203416489984";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "7966720";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: C:\Program Files\Git\mingw64\bin\git.exe
+PID: 35240
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CommandLine = "git.exe fetch";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011055.475064+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	ExecutablePath = "C:\\Program Files\\Git\\mingw64\\bin\\git.exe";
+	Handle = "35240";
+	HandleCount = 120;
+	KernelModeTime = "468750";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "329";
+	OtherTransferCount = "7584";
+	PageFaults = 2479;
+	PageFileUsage = 34936;
+	ParentProcessId = 36284;
+	PeakPageFileUsage = 34936;
+	PeakVirtualSize = "5469396992";
+	PeakWorkingSetSize = 9508;
+	Priority = 8;
+	PrivatePageCount = "35774464";
+	ProcessId = 35240;
+	QuotaNonPagedPoolUsage = 11;
+	QuotaPagedPoolUsage = 136;
+	QuotaPeakNonPagedPoolUsage = 30;
+	QuotaPeakPagedPoolUsage = 136;
+	ReadOperationCount = "31";
+	ReadTransferCount = "12020";
+	SessionId = 1;
+	ThreadCount = 4;
+	UserModeTime = "312500";
+	VirtualSize = "5469392896";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "9736192";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: C:\Program Files\Git\cmd\git.exe
+PID: 36284
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CommandLine = "\"C:\\Program Files\\Git\\cmd\\git.exe\" fetch";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011055.389426+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	ExecutablePath = "C:\\Program Files\\Git\\cmd\\git.exe";
+	Handle = "36284";
+	HandleCount = 151;
+	KernelModeTime = "156250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "98";
+	OtherTransferCount = "3202";
+	PageFaults = 2114;
+	PageFileUsage = 1832;
+	ParentProcessId = 43956;
+	PeakPageFileUsage = 1840;
+	PeakVirtualSize = "4409552896";
+	PeakWorkingSetSize = 8140;
+	Priority = 8;
+	PrivatePageCount = "1875968";
+	ProcessId = 36284;
+	QuotaNonPagedPoolUsage = 9;
+	QuotaPagedPoolUsage = 162;
+	QuotaPeakNonPagedPoolUsage = 26;
+	QuotaPeakPagedPoolUsage = 162;
+	ReadOperationCount = "28";
+	ReadTransferCount = "3281";
+	SessionId = 1;
+	ThreadCount = 4;
+	UserModeTime = "0";
+	VirtualSize = "4409552896";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "8335360";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: sh.exe
+Application Source: C:\Program Files\Git\usr\bin\sh.exe
+PID: 5640
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "sh.exe";
+	CommandLine = "sh -c \"\\\"/c/Program Files/Git/usr/bin/ssh.exe\\\" -i \\\"/c/Users/Nitro 5/.ssh/id_rsa\\\" \\\"$@\\\"\" \"\\\"/c/Program Files/Git/usr/bin/ssh.exe\\\" -i \\\"/c/Users/Nitro 5/.ssh/id_rsa\\\"\" -o SendEnv=GIT_PROTOCOL git@github.com \"git-upload-pack 'Ronaldo93/icee-utils-private.git'\"";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011055.552143+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "sh.exe";
+	ExecutablePath = "C:\\Program Files\\Git\\usr\\bin\\sh.exe";
+	Handle = "5640";
+	HandleCount = 173;
+	KernelModeTime = "625000";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "sh.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "696";
+	OtherTransferCount = "3148206";
+	PageFaults = 3047;
+	PageFileUsage = 6392;
+	ParentProcessId = 35240;
+	PeakPageFileUsage = 6456;
+	PeakVirtualSize = "13554094080";
+	PeakWorkingSetSize = 11308;
+	Priority = 8;
+	PrivatePageCount = "6545408";
+	ProcessId = 5640;
+	QuotaNonPagedPoolUsage = 12;
+	QuotaPagedPoolUsage = 164;
+	QuotaPeakNonPagedPoolUsage = 223;
+	QuotaPeakPagedPoolUsage = 164;
+	ReadOperationCount = "12";
+	ReadTransferCount = "7252";
+	SessionId = 1;
+	ThreadCount = 8;
+	UserModeTime = "468750";
+	VirtualSize = "13554094080";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "11579392";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: None
+PID: 20788
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011100.009835+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	Handle = "20788";
+	HandleCount = 133;
+	KernelModeTime = "312500";
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "98";
+	OtherTransferCount = "3202";
+	PageFaults = 2099;
+	PageFileUsage = 1796;
+	ParentProcessId = 29152;
+	PeakPageFileUsage = 1804;
+	PeakVirtualSize = "4409552896";
+	PeakWorkingSetSize = 8128;
+	Priority = 8;
+	PrivatePageCount = "1839104";
+	ProcessId = 20788;
+	QuotaNonPagedPoolUsage = 9;
+	QuotaPagedPoolUsage = 158;
+	QuotaPeakNonPagedPoolUsage = 23;
+	QuotaPeakPagedPoolUsage = 158;
+	ReadOperationCount = "28";
+	ReadTransferCount = "3281";
+	SessionId = 1;
+	ThreadCount = 4;
+	UserModeTime = "0";
+	VirtualSize = "4409552896";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "8323072";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: conhost.exe
+Application Source: None
+PID: 24736
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "conhost.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011100.023302+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "conhost.exe";
+	Handle = "24736";
+	HandleCount = 100;
+	KernelModeTime = "156250";
+	Name = "conhost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "43";
+	OtherTransferCount = "1772";
+	PageFaults = 1996;
+	PageFileUsage = 1212;
+	ParentProcessId = 20788;
+	PeakPageFileUsage = 1212;
+	PeakVirtualSize = "2203416489984";
+	PeakWorkingSetSize = 7644;
+	Priority = 8;
+	PrivatePageCount = "1241088";
+	ProcessId = 24736;
+	QuotaNonPagedPoolUsage = 8;
+	QuotaPagedPoolUsage = 110;
+	QuotaPeakNonPagedPoolUsage = 8;
+	QuotaPeakPagedPoolUsage = 112;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 2;
+	UserModeTime = "0";
+	VirtualSize = "2203416489984";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "7827456";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: None
+PID: 26860
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011100.061199+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	Handle = "26860";
+	HandleCount = 62;
+	KernelModeTime = "312500";
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "315";
+	OtherTransferCount = "6072";
+	PageFaults = 2330;
+	PageFileUsage = 34832;
+	ParentProcessId = 20788;
+	PeakPageFileUsage = 34868;
+	PeakVirtualSize = "5468270592";
+	PeakWorkingSetSize = 8964;
+	Priority = 8;
+	PrivatePageCount = "35667968";
+	ProcessId = 26860;
+	QuotaNonPagedPoolUsage = 11;
+	QuotaPagedPoolUsage = 87;
+	QuotaPeakNonPagedPoolUsage = 11;
+	QuotaPeakPagedPoolUsage = 130;
+	ReadOperationCount = "13";
+	ReadTransferCount = "7941";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "5447294976";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "9179136";
+	WriteOperationCount = "5";
+	WriteTransferCount = "103";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: svchost.exe
+Application Source: None
+PID: 29024
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "svchost.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011105.406147+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "svchost.exe";
+	Handle = "29024";
+	HandleCount = 188;
+	KernelModeTime = "156250";
+	Name = "svchost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "123";
+	OtherTransferCount = "7066";
+	PageFaults = 2713;
+	PageFileUsage = 2196;
+	ParentProcessId = 1572;
+	PeakPageFileUsage = 2248;
+	PeakVirtualSize = "2203412541440";
+	PeakWorkingSetSize = 10472;
+	Priority = 8;
+	PrivatePageCount = "2248704";
+	ProcessId = 29024;
+	QuotaNonPagedPoolUsage = 10;
+	QuotaPagedPoolUsage = 80;
+	QuotaPeakNonPagedPoolUsage = 10;
+	QuotaPeakPagedPoolUsage = 80;
+	ReadOperationCount = "3";
+	ReadTransferCount = "5175";
+	SessionId = 0;
+	ThreadCount = 9;
+	UserModeTime = "312500";
+	VirtualSize = "2203412017152";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "10702848";
+	WriteOperationCount = "2";
+	WriteTransferCount = "276";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 23648
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011106.948476+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "23648";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1356;
+	PageFileUsage = 8364;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 8364;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4884;
+	Priority = 8;
+	PrivatePageCount = "8564736";
+	ProcessId = 23648;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4431872";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 10756
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011110.917501+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "10756";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1356;
+	PageFileUsage = 8364;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 8364;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4884;
+	Priority = 8;
+	PrivatePageCount = "8564736";
+	ProcessId = 10756;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4431872";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: svchost.exe
+Application Source: None
+PID: 14136
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "svchost.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011111.143338+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "svchost.exe";
+	Handle = "14136";
+	HandleCount = 288;
+	KernelModeTime = "468750";
+	Name = "svchost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "199";
+	OtherTransferCount = "12375";
+	PageFaults = 4160;
+	PageFileUsage = 5400;
+	ParentProcessId = 1572;
+	PeakPageFileUsage = 5424;
+	PeakVirtualSize = "2203436404736";
+	PeakWorkingSetSize = 15348;
+	Priority = 13;
+	PrivatePageCount = "5529600";
+	ProcessId = 14136;
+	QuotaNonPagedPoolUsage = 14;
+	QuotaPagedPoolUsage = 104;
+	QuotaPeakNonPagedPoolUsage = 15;
+	QuotaPeakPagedPoolUsage = 105;
+	ReadOperationCount = "1";
+	ReadTransferCount = "7128";
+	SessionId = 0;
+	ThreadCount = 6;
+	UserModeTime = "156250";
+	VirtualSize = "2203435880448";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "15716352";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Taskmgr.exe
+Application Source: None
+PID: 13324
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Taskmgr.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011115.130925+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Taskmgr.exe";
+	Handle = "13324";
+	HandleCount = 871;
+	KernelModeTime = "6875000";
+	Name = "Taskmgr.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "5057";
+	OtherTransferCount = "127661";
+	PageFaults = 33477;
+	PageFileUsage = 62468;
+	ParentProcessId = 39004;
+	PeakPageFileUsage = 62468;
+	PeakVirtualSize = "2204083671040";
+	PeakWorkingSetSize = 110972;
+	Priority = 8;
+	PrivatePageCount = "63967232";
+	ProcessId = 13324;
+	QuotaNonPagedPoolUsage = 53;
+	QuotaPagedPoolUsage = 919;
+	QuotaPeakNonPagedPoolUsage = 53;
+	QuotaPeakPagedPoolUsage = 1184;
+	ReadOperationCount = "198";
+	ReadTransferCount = "410285";
+	SessionId = 1;
+	ThreadCount = 37;
+	UserModeTime = "5625000";
+	VirtualSize = "2203943231488";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "113635328";
+	WriteOperationCount = "1";
+	WriteTransferCount = "8";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 17148
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=261 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=187892822332 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190709230879794083 --mojo-platform-channel-handle=11788 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011120.467592+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "17148";
+	HandleCount = 283;
+	KernelModeTime = "468750";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17072";
+	PageFaults = 12174;
+	PageFileUsage = 20620;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 20620;
+	PeakVirtualSize = "3816078643200";
+	PeakWorkingSetSize = 44968;
+	Priority = 4;
+	PrivatePageCount = "21114880";
+	ProcessId = 17148;
+	QuotaNonPagedPoolUsage = 27;
+	QuotaPagedPoolUsage = 795;
+	QuotaPeakNonPagedPoolUsage = 27;
+	QuotaPeakPagedPoolUsage = 795;
+	ReadOperationCount = "70";
+	ReadTransferCount = "205368";
+	SessionId = 1;
+	ThreadCount = 13;
+	UserModeTime = "156250";
+	VirtualSize = "3816078639104";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "46047232";
+	WriteOperationCount = "84";
+	WriteTransferCount = "14680";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: OAWrapper.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\NVIDIA Corporation\NVIDIA App\NvBackend\ApplicationOntology\OAWrapper.exe
+PID: 14280
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "OAWrapper.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\NVIDIA Corporation\\NVIDIA App\\NvBackend\\ApplicationOntology\\OAWrapper.exe\" -a roblox -p \"C:\\Users\\Nitro 5\\AppData\\Local\\Roblox\\Versions\\version-26c90be22e0d4758\" -g c";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011121.637072+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "OAWrapper.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\NVIDIA Corporation\\NVIDIA App\\NvBackend\\ApplicationOntology\\OAWrapper.exe";
+	Handle = "14280";
+	HandleCount = 310;
+	KernelModeTime = "937500";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "OAWrapper.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "365";
+	OtherTransferCount = "20277";
+	PageFaults = 5754;
+	PageFileUsage = 6624;
+	ParentProcessId = 14856;
+	PeakPageFileUsage = 6624;
+	PeakVirtualSize = "2203459584000";
+	PeakWorkingSetSize = 18280;
+	Priority = 8;
+	PrivatePageCount = "6782976";
+	ProcessId = 14280;
+	QuotaNonPagedPoolUsage = 15;
+	QuotaPagedPoolUsage = 197;
+	QuotaPeakNonPagedPoolUsage = 19;
+	QuotaPeakPagedPoolUsage = 199;
+	ReadOperationCount = "49";
+	ReadTransferCount = "761056";
+	SessionId = 1;
+	ThreadCount = 3;
+	UserModeTime = "312500";
+	VirtualSize = "2203458703360";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "18718720";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: conhost.exe
+Application Source: C:\WINDOWS\system32\conhost.exe
+PID: 41812
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "conhost.exe";
+	CommandLine = "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011121.652448+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "conhost.exe";
+	ExecutablePath = "C:\\WINDOWS\\system32\\conhost.exe";
+	Handle = "41812";
+	HandleCount = 96;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "conhost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "43";
+	OtherTransferCount = "1952";
+	PageFaults = 2060;
+	PageFileUsage = 1224;
+	ParentProcessId = 14280;
+	PeakPageFileUsage = 1228;
+	PeakVirtualSize = "2203416498176";
+	PeakWorkingSetSize = 7880;
+	Priority = 8;
+	PrivatePageCount = "1253376";
+	ProcessId = 41812;
+	QuotaNonPagedPoolUsage = 9;
+	QuotaPagedPoolUsage = 110;
+	QuotaPeakNonPagedPoolUsage = 9;
+	QuotaPeakPagedPoolUsage = 111;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 2;
+	UserModeTime = "156250";
+	VirtualSize = "2203416498176";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "8060928";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: conhost.exe
+Application Source: None
+PID: 33964
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "conhost.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011122.534205+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "conhost.exe";
+	Handle = "33964";
+	HandleCount = 96;
+	KernelModeTime = "0";
+	Name = "conhost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "43";
+	OtherTransferCount = "1952";
+	PageFaults = 2064;
+	PageFileUsage = 1224;
+	ParentProcessId = 6036;
+	PeakPageFileUsage = 1224;
+	PeakVirtualSize = "2203416498176";
+	PeakWorkingSetSize = 7900;
+	Priority = 8;
+	PrivatePageCount = "1253376";
+	ProcessId = 33964;
+	QuotaNonPagedPoolUsage = 9;
+	QuotaPagedPoolUsage = 110;
+	QuotaPeakNonPagedPoolUsage = 9;
+	QuotaPeakPagedPoolUsage = 111;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 2;
+	UserModeTime = "156250";
+	VirtualSize = "2203416498176";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "8081408";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: OAWrapper.exe
+Application Source: None
+PID: 6036
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "OAWrapper.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011122.505910+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "OAWrapper.exe";
+	Handle = "6036";
+	HandleCount = 325;
+	KernelModeTime = "1562500";
+	Name = "OAWrapper.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "467";
+	OtherTransferCount = "21743";
+	PageFaults = 6769;
+	PageFileUsage = 9096;
+	ParentProcessId = 14856;
+	PeakPageFileUsage = 9096;
+	PeakVirtualSize = "2203474055168";
+	PeakWorkingSetSize = 22312;
+	Priority = 8;
+	PrivatePageCount = "9314304";
+	ProcessId = 6036;
+	QuotaNonPagedPoolUsage = 16;
+	QuotaPagedPoolUsage = 223;
+	QuotaPeakNonPagedPoolUsage = 19;
+	QuotaPeakPagedPoolUsage = 223;
+	ReadOperationCount = "51";
+	ReadTransferCount = "765207";
+	SessionId = 1;
+	ThreadCount = 3;
+	UserModeTime = "1406250";
+	VirtualSize = "2203474055168";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "22847488";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: OAWrapper.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\NVIDIA Corporation\NVIDIA App\NvBackend\ApplicationOntology\OAWrapper.exe
+PID: 30028
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "OAWrapper.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\NVIDIA Corporation\\NVIDIA App\\NvBackend\\ApplicationOntology\\OAWrapper.exe\" -a roblox -p \"C:\\Users\\Nitro 5\\AppData\\Local\\Roblox\\Versions\\version-26c90be22e0d4758\" -g c";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011123.758810+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "OAWrapper.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\NVIDIA Corporation\\NVIDIA App\\NvBackend\\ApplicationOntology\\OAWrapper.exe";
+	Handle = "30028";
+	HandleCount = 325;
+	KernelModeTime = "1406250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "OAWrapper.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "443";
+	OtherTransferCount = "21743";
+	PageFaults = 6723;
+	PageFileUsage = 9008;
+	ParentProcessId = 14856;
+	PeakPageFileUsage = 9008;
+	PeakVirtualSize = "2203474055168";
+	PeakWorkingSetSize = 22124;
+	Priority = 8;
+	PrivatePageCount = "9224192";
+	ProcessId = 30028;
+	QuotaNonPagedPoolUsage = 16;
+	QuotaPagedPoolUsage = 223;
+	QuotaPeakNonPagedPoolUsage = 19;
+	QuotaPeakPagedPoolUsage = 223;
+	ReadOperationCount = "51";
+	ReadTransferCount = "765207";
+	SessionId = 1;
+	ThreadCount = 3;
+	UserModeTime = "156250";
+	VirtualSize = "2203474055168";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "22654976";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: conhost.exe
+Application Source: C:\WINDOWS\system32\conhost.exe
+PID: 39828
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "conhost.exe";
+	CommandLine = "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011123.777706+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "conhost.exe";
+	ExecutablePath = "C:\\WINDOWS\\system32\\conhost.exe";
+	Handle = "39828";
+	HandleCount = 96;
+	KernelModeTime = "156250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "conhost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "43";
+	OtherTransferCount = "1952";
+	PageFaults = 2039;
+	PageFileUsage = 1228;
+	ParentProcessId = 30028;
+	PeakPageFileUsage = 1228;
+	PeakVirtualSize = "2203416498176";
+	PeakWorkingSetSize = 7792;
+	Priority = 8;
+	PrivatePageCount = "1257472";
+	ProcessId = 39828;
+	QuotaNonPagedPoolUsage = 9;
+	QuotaPagedPoolUsage = 110;
+	QuotaPeakNonPagedPoolUsage = 9;
+	QuotaPeakPagedPoolUsage = 111;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 2;
+	UserModeTime = "0";
+	VirtualSize = "2203416498176";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "7979008";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 36092
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=265 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=187953052978 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190709234627961479 --mojo-platform-channel-handle=12112 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011220.698447+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "36092";
+	HandleCount = 283;
+	KernelModeTime = "468750";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17068";
+	PageFaults = 12766;
+	PageFileUsage = 23272;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 23272;
+	PeakVirtualSize = "3816078643200";
+	PeakWorkingSetSize = 47436;
+	Priority = 4;
+	PrivatePageCount = "23830528";
+	ProcessId = 36092;
+	QuotaNonPagedPoolUsage = 27;
+	QuotaPagedPoolUsage = 795;
+	QuotaPeakNonPagedPoolUsage = 27;
+	QuotaPeakPagedPoolUsage = 795;
+	ReadOperationCount = "62";
+	ReadTransferCount = "205368";
+	SessionId = 1;
+	ThreadCount = 13;
+	UserModeTime = "312500";
+	VirtualSize = "3816078639104";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "48574464";
+	WriteOperationCount = "84";
+	WriteTransferCount = "14936";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: None
+PID: 13052
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011222.895883+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	Handle = "13052";
+	HandleCount = 133;
+	KernelModeTime = "312500";
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "98";
+	OtherTransferCount = "3202";
+	PageFaults = 2075;
+	PageFileUsage = 1780;
+	ParentProcessId = 29152;
+	PeakPageFileUsage = 1788;
+	PeakVirtualSize = "4409552896";
+	PeakWorkingSetSize = 8028;
+	Priority = 8;
+	PrivatePageCount = "1822720";
+	ProcessId = 13052;
+	QuotaNonPagedPoolUsage = 9;
+	QuotaPagedPoolUsage = 158;
+	QuotaPeakNonPagedPoolUsage = 23;
+	QuotaPeakPagedPoolUsage = 158;
+	ReadOperationCount = "28";
+	ReadTransferCount = "3281";
+	SessionId = 1;
+	ThreadCount = 4;
+	UserModeTime = "0";
+	VirtualSize = "4409552896";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "8220672";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: conhost.exe
+Application Source: None
+PID: 30856
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "conhost.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011222.907004+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "conhost.exe";
+	Handle = "30856";
+	HandleCount = 100;
+	KernelModeTime = "0";
+	Name = "conhost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "43";
+	OtherTransferCount = "1772";
+	PageFaults = 1983;
+	PageFileUsage = 1216;
+	ParentProcessId = 13052;
+	PeakPageFileUsage = 1224;
+	PeakVirtualSize = "2203416489984";
+	PeakWorkingSetSize = 7592;
+	Priority = 8;
+	PrivatePageCount = "1245184";
+	ProcessId = 30856;
+	QuotaNonPagedPoolUsage = 8;
+	QuotaPagedPoolUsage = 112;
+	QuotaPeakNonPagedPoolUsage = 8;
+	QuotaPeakPagedPoolUsage = 112;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 2;
+	UserModeTime = "156250";
+	VirtualSize = "2203416489984";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "7774208";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: None
+PID: 30968
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011222.941417+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	Handle = "30968";
+	HandleCount = 96;
+	KernelModeTime = "312500";
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "288";
+	OtherTransferCount = "6806";
+	PageFaults = 2585;
+	PageFileUsage = 34896;
+	ParentProcessId = 13052;
+	PeakPageFileUsage = 34896;
+	PeakVirtualSize = "5469437952";
+	PeakWorkingSetSize = 9948;
+	Priority = 8;
+	PrivatePageCount = "35733504";
+	ProcessId = 30968;
+	QuotaNonPagedPoolUsage = 12;
+	QuotaPagedPoolUsage = 130;
+	QuotaPeakNonPagedPoolUsage = 12;
+	QuotaPeakPagedPoolUsage = 130;
+	ReadOperationCount = "21";
+	ReadTransferCount = "11161";
+	SessionId = 1;
+	ThreadCount = 4;
+	UserModeTime = "0";
+	VirtualSize = "5469413376";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "10186752";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: conhost.exe
+Application Source: None
+PID: 36052
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "conhost.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011222.897608+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "conhost.exe";
+	Handle = "36052";
+	HandleCount = 99;
+	KernelModeTime = "156250";
+	Name = "conhost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "44";
+	OtherTransferCount = "1812";
+	PageFaults = 1979;
+	PageFileUsage = 1232;
+	ParentProcessId = 39248;
+	PeakPageFileUsage = 1236;
+	PeakVirtualSize = "2203416489984";
+	PeakWorkingSetSize = 7564;
+	Priority = 8;
+	PrivatePageCount = "1261568";
+	ProcessId = 36052;
+	QuotaNonPagedPoolUsage = 8;
+	QuotaPagedPoolUsage = 110;
+	QuotaPeakNonPagedPoolUsage = 8;
+	QuotaPeakPagedPoolUsage = 112;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 2;
+	UserModeTime = "0";
+	VirtualSize = "2203416489984";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "7745536";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: None
+PID: 39248
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011222.885446+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	Handle = "39248";
+	HandleCount = 69;
+	KernelModeTime = "312500";
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "98";
+	OtherTransferCount = "3202";
+	PageFaults = 2354;
+	PageFileUsage = 1776;
+	ParentProcessId = 29152;
+	PeakPageFileUsage = 1784;
+	PeakVirtualSize = "4409552896";
+	PeakWorkingSetSize = 9152;
+	Priority = 8;
+	PrivatePageCount = "1818624";
+	ProcessId = 39248;
+	QuotaNonPagedPoolUsage = 9;
+	QuotaPagedPoolUsage = 157;
+	QuotaPeakNonPagedPoolUsage = 23;
+	QuotaPeakPagedPoolUsage = 158;
+	ReadOperationCount = "28";
+	ReadTransferCount = "3281";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "312500";
+	VirtualSize = "4409552896";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "9371648";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 37668
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413011302.093350+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "37668";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1356;
+	PageFileUsage = 8364;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 8364;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4884;
+	Priority = 8;
+	PrivatePageCount = "8564736";
+	ProcessId = 37668;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4431872";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: RuntimeBroker.exe
+Application Source: C:\Windows\System32\RuntimeBroker.exe
+PID: 13648
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "RuntimeBroker.exe";
+	CommandLine = "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015308.058448+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "RuntimeBroker.exe";
+	ExecutablePath = "C:\\Windows\\System32\\RuntimeBroker.exe";
+	Handle = "13648";
+	HandleCount = 283;
+	KernelModeTime = "1406250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "RuntimeBroker.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "1857";
+	OtherTransferCount = "58405";
+	PageFaults = 13662;
+	PageFileUsage = 7180;
+	ParentProcessId = 1756;
+	PeakPageFileUsage = 7180;
+	PeakVirtualSize = "2203495800832";
+	PeakWorkingSetSize = 29420;
+	Priority = 8;
+	PrivatePageCount = "7352320";
+	ProcessId = 13648;
+	QuotaNonPagedPoolUsage = 17;
+	QuotaPagedPoolUsage = 220;
+	QuotaPeakNonPagedPoolUsage = 17;
+	QuotaPeakPagedPoolUsage = 224;
+	ReadOperationCount = "15";
+	ReadTransferCount = "35184";
+	SessionId = 1;
+	ThreadCount = 12;
+	UserModeTime = "1250000";
+	VirtualSize = "2203493994496";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "30126080";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: svchost.exe
+Application Source: None
+PID: 24460
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "svchost.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015308.172784+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "svchost.exe";
+	Handle = "24460";
+	HandleCount = 283;
+	KernelModeTime = "1093750";
+	Name = "svchost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "375";
+	OtherTransferCount = "56163";
+	PageFaults = 5867;
+	PageFileUsage = 6752;
+	ParentProcessId = 1572;
+	PeakPageFileUsage = 6756;
+	PeakVirtualSize = "2203459792896";
+	PeakWorkingSetSize = 21844;
+	Priority = 8;
+	PrivatePageCount = "6914048";
+	ProcessId = 24460;
+	QuotaNonPagedPoolUsage = 18;
+	QuotaPagedPoolUsage = 142;
+	QuotaPeakNonPagedPoolUsage = 23;
+	QuotaPeakPagedPoolUsage = 146;
+	ReadOperationCount = "8";
+	ReadTransferCount = "74568";
+	SessionId = 0;
+	ThreadCount = 8;
+	UserModeTime = "156250";
+	VirtualSize = "2203459784704";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "22368256";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: RobloxPlayerBeta.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Roblox\Versions\version-26c90be22e0d4758\RobloxPlayerBeta.exe
+PID: 36484
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "RobloxPlayerBeta.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Roblox\\Versions\\version-26c90be22e0d4758\\RobloxPlayerBeta.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015309.706172+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "RobloxPlayerBeta.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Roblox\\Versions\\version-26c90be22e0d4758\\RobloxPlayerBeta.exe";
+	Handle = "36484";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "RobloxPlayerBeta.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 106;
+	PageFileUsage = 13680;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 13680;
+	PeakVirtualSize = "143142912";
+	PeakWorkingSetSize = 88;
+	Priority = 8;
+	PrivatePageCount = "14008320";
+	ProcessId = 36484;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 265;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 265;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "143142912";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "90112";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: msedge.exe
+Application Source: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 13384
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "msedge.exe";
+	CommandLine = "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --extension-process --renderer-sub-type=extension --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1761 --time-ticks-at-unix-epoch=-1775829584506994 --launch-time-ticks=190417402933 --ssd-no-pressure-read-main-dll --metrics-shmem-handle=14332,i,9435601573746913693,8347105367676903667,2097152 --field-trial-handle=2452,i,8814271193030361873,16081187988559298748,262144 --variations-seed-version --pseudonymization-salt-handle=2456,i,11416656568789103730,2868290599527344147,4 --trace-process-track-uuid=3190710636442567583 --mojo-platform-channel-handle=5712 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015325.048963+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "msedge.exe";
+	ExecutablePath = "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe";
+	Handle = "13384";
+	HandleCount = 243;
+	KernelModeTime = "1250000";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "msedge.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "115";
+	OtherTransferCount = "13262";
+	PageFaults = 13653;
+	PageFileUsage = 26536;
+	ParentProcessId = 33004;
+	PeakPageFileUsage = 27736;
+	PeakVirtualSize = "3816178049024";
+	PeakWorkingSetSize = 50240;
+	Priority = 4;
+	PrivatePageCount = "27172864";
+	ProcessId = 13384;
+	QuotaNonPagedPoolUsage = 25;
+	QuotaPagedPoolUsage = 933;
+	QuotaPeakNonPagedPoolUsage = 43;
+	QuotaPeakPagedPoolUsage = 933;
+	ReadOperationCount = "111";
+	ReadTransferCount = "264272";
+	SessionId = 1;
+	ThreadCount = 15;
+	UserModeTime = "625000";
+	VirtualSize = "3816178049024";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "50397184";
+	WriteOperationCount = "117";
+	WriteTransferCount = "59592";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: msedge.exe
+Application Source: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 17044
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "msedge.exe";
+	CommandLine = "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --extension-process --renderer-sub-type=extension --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1762 --time-ticks-at-unix-epoch=-1775829584506994 --launch-time-ticks=190417407687 --skip-read-main-dll --metrics-shmem-handle=10100,i,12148533161002837781,6460931207438378696,2097152 --field-trial-handle=2452,i,8814271193030361873,16081187988559298748,262144 --variations-seed-version --pseudonymization-salt-handle=2456,i,11416656568789103730,2868290599527344147,4 --trace-process-track-uuid=3190710637379609432 --mojo-platform-channel-handle=7832 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015325.053948+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "msedge.exe";
+	ExecutablePath = "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe";
+	Handle = "17044";
+	HandleCount = 240;
+	KernelModeTime = "468750";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "msedge.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "113";
+	OtherTransferCount = "13262";
+	PageFaults = 13610;
+	PageFileUsage = 26004;
+	ParentProcessId = 33004;
+	PeakPageFileUsage = 26016;
+	PeakVirtualSize = "3816178049024";
+	PeakWorkingSetSize = 48956;
+	Priority = 4;
+	PrivatePageCount = "26628096";
+	ProcessId = 17044;
+	QuotaNonPagedPoolUsage = 25;
+	QuotaPagedPoolUsage = 917;
+	QuotaPeakNonPagedPoolUsage = 25;
+	QuotaPeakPagedPoolUsage = 917;
+	ReadOperationCount = "197";
+	ReadTransferCount = "300800";
+	SessionId = 1;
+	ThreadCount = 15;
+	UserModeTime = "1093750";
+	VirtualSize = "3816178049024";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "50126848";
+	WriteOperationCount = "158";
+	WriteTransferCount = "22120";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: msedge.exe
+Application Source: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 37612
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "msedge.exe";
+	CommandLine = "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --extension-process --renderer-sub-type=extension --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1763 --time-ticks-at-unix-epoch=-1775829584506994 --launch-time-ticks=190417412848 --skip-read-main-dll --metrics-shmem-handle=7068,i,3073826708580129084,6069538129082532730,2097152 --field-trial-handle=2452,i,8814271193030361873,16081187988559298748,262144 --variations-seed-version --pseudonymization-salt-handle=2456,i,11416656568789103730,2868290599527344147,4 --trace-process-track-uuid=3190710638316651281 --mojo-platform-channel-handle=13628 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015325.059213+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "msedge.exe";
+	ExecutablePath = "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe";
+	Handle = "37612";
+	HandleCount = 241;
+	KernelModeTime = "625000";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "msedge.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "113";
+	OtherTransferCount = "13256";
+	PageFaults = 14907;
+	PageFileUsage = 30616;
+	ParentProcessId = 33004;
+	PeakPageFileUsage = 30616;
+	PeakVirtualSize = "3816169660416";
+	PeakWorkingSetSize = 54432;
+	Priority = 4;
+	PrivatePageCount = "31350784";
+	ProcessId = 37612;
+	QuotaNonPagedPoolUsage = 25;
+	QuotaPagedPoolUsage = 933;
+	QuotaPeakNonPagedPoolUsage = 25;
+	QuotaPeakPagedPoolUsage = 933;
+	ReadOperationCount = "220";
+	ReadTransferCount = "435920";
+	SessionId = 1;
+	ThreadCount = 14;
+	UserModeTime = "781250";
+	VirtualSize = "3816169660416";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "55738368";
+	WriteOperationCount = "218";
+	WriteTransferCount = "42016";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 9004
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=426 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=190419330114 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190709385491699168 --mojo-platform-channel-handle=8428 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015326.975723+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "9004";
+	HandleCount = 283;
+	KernelModeTime = "625000";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17066";
+	PageFaults = 14426;
+	PageFileUsage = 25428;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 25428;
+	PeakVirtualSize = "3816078639104";
+	PeakWorkingSetSize = 53096;
+	Priority = 4;
+	PrivatePageCount = "26038272";
+	ProcessId = 9004;
+	QuotaNonPagedPoolUsage = 27;
+	QuotaPagedPoolUsage = 783;
+	QuotaPeakNonPagedPoolUsage = 30;
+	QuotaPeakPagedPoolUsage = 783;
+	ReadOperationCount = "108";
+	ReadTransferCount = "271984";
+	SessionId = 1;
+	ThreadCount = 13;
+	UserModeTime = "156250";
+	VirtualSize = "3816078639104";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "54370304";
+	WriteOperationCount = "107";
+	WriteTransferCount = "16672";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 39000
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=427 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=190421002346 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190709386428741017 --mojo-platform-channel-handle=9420 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015328.647354+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "39000";
+	HandleCount = 283;
+	KernelModeTime = "156250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17074";
+	PageFaults = 12084;
+	PageFileUsage = 20600;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 20600;
+	PeakVirtualSize = "3816078643200";
+	PeakWorkingSetSize = 44680;
+	Priority = 4;
+	PrivatePageCount = "21094400";
+	ProcessId = 39000;
+	QuotaNonPagedPoolUsage = 27;
+	QuotaPagedPoolUsage = 787;
+	QuotaPeakNonPagedPoolUsage = 27;
+	QuotaPeakPagedPoolUsage = 787;
+	ReadOperationCount = "67";
+	ReadTransferCount = "205472";
+	SessionId = 1;
+	ThreadCount = 13;
+	UserModeTime = "625000";
+	VirtualSize = "3816078639104";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "45752320";
+	WriteOperationCount = "84";
+	WriteTransferCount = "14280";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: RobloxPlayerBeta.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Roblox\Versions\version-26c90be22e0d4758\RobloxPlayerBeta.exe
+PID: 27884
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "RobloxPlayerBeta.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Roblox\\Versions\\version-26c90be22e0d4758\\RobloxPlayerBeta.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015330.498338+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "RobloxPlayerBeta.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Roblox\\Versions\\version-26c90be22e0d4758\\RobloxPlayerBeta.exe";
+	Handle = "27884";
+	HandleCount = 110;
+	KernelModeTime = "781250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "RobloxPlayerBeta.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "137";
+	OtherTransferCount = "1812";
+	PageFaults = 2341;
+	PageFileUsage = 17888;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 17896;
+	PeakVirtualSize = "4556210176";
+	PeakWorkingSetSize = 8668;
+	Priority = 8;
+	PrivatePageCount = "18317312";
+	ProcessId = 27884;
+	QuotaNonPagedPoolUsage = 11;
+	QuotaPagedPoolUsage = 402;
+	QuotaPeakNonPagedPoolUsage = 11;
+	QuotaPeakPagedPoolUsage = 456;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 4;
+	UserModeTime = "156250";
+	VirtualSize = "4556013568";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "8876032";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: backgroundTaskHost.exe
+Application Source: C:\WINDOWS\system32\backgroundTaskHost.exe
+PID: 32420
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "backgroundTaskHost.exe";
+	CommandLine = "\"C:\\WINDOWS\\system32\\backgroundTaskHost.exe\" -ServerName:Global.DesktopSpotlight.AppXz2j21w56bgxkgsjhtn7zkjsepq96erz2.mca";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015332.050386+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "backgroundTaskHost.exe";
+	ExecutablePath = "C:\\WINDOWS\\system32\\backgroundTaskHost.exe";
+	Handle = "32420";
+	HandleCount = 212;
+	KernelModeTime = "781250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "backgroundTaskHost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "542";
+	OtherTransferCount = "7250";
+	PageFaults = 5814;
+	PageFileUsage = 3580;
+	ParentProcessId = 1756;
+	PeakPageFileUsage = 3580;
+	PeakVirtualSize = "2203469574144";
+	PeakWorkingSetSize = 22648;
+	Priority = 8;
+	PrivatePageCount = "3665920";
+	ProcessId = 32420;
+	QuotaNonPagedPoolUsage = 12;
+	QuotaPagedPoolUsage = 189;
+	QuotaPeakNonPagedPoolUsage = 12;
+	QuotaPeakPagedPoolUsage = 208;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 8;
+	UserModeTime = "781250";
+	VirtualSize = "2203469574144";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "23191552";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: msedge.exe
+Application Source: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 33080
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "msedge.exe";
+	CommandLine = "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --extension-process --renderer-sub-type=extension --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1766 --time-ticks-at-unix-epoch=-1775829584506994 --launch-time-ticks=190437854831 --skip-read-main-dll --metrics-shmem-handle=12180,i,13176548636303418777,9640727146133661722,2097152 --field-trial-handle=2452,i,8814271193030361873,16081187988559298748,262144 --variations-seed-version --pseudonymization-salt-handle=2456,i,11416656568789103730,2868290599527344147,4 --trace-process-track-uuid=3190710641127776828 --mojo-platform-channel-handle=7296 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015345.501531+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "msedge.exe";
+	ExecutablePath = "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe";
+	Handle = "33080";
+	HandleCount = 283;
+	KernelModeTime = "2500000";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "msedge.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "113";
+	OtherTransferCount = "13260";
+	PageFaults = 36700;
+	PageFileUsage = 91772;
+	ParentProcessId = 33004;
+	PeakPageFileUsage = 93344;
+	PeakVirtualSize = "3816302239744";
+	PeakWorkingSetSize = 116560;
+	Priority = 4;
+	PrivatePageCount = "93974528";
+	ProcessId = 33080;
+	QuotaNonPagedPoolUsage = 29;
+	QuotaPagedPoolUsage = 925;
+	QuotaPeakNonPagedPoolUsage = 32;
+	QuotaPeakPagedPoolUsage = 929;
+	ReadOperationCount = "272";
+	ReadTransferCount = "432616";
+	SessionId = 1;
+	ThreadCount = 28;
+	UserModeTime = "468750";
+	VirtualSize = "3816300142592";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "119357440";
+	WriteOperationCount = "354";
+	WriteTransferCount = "49584";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 38000
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=428 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=190440010159 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190709387365782866 --mojo-platform-channel-handle=10928 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015347.655042+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "38000";
+	HandleCount = 289;
+	KernelModeTime = "781250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17074";
+	PageFaults = 17129;
+	PageFileUsage = 29760;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 35376;
+	PeakVirtualSize = "3816096464896";
+	PeakWorkingSetSize = 61876;
+	Priority = 4;
+	PrivatePageCount = "30474240";
+	ProcessId = 38000;
+	QuotaNonPagedPoolUsage = 28;
+	QuotaPagedPoolUsage = 791;
+	QuotaPeakNonPagedPoolUsage = 28;
+	QuotaPeakPagedPoolUsage = 791;
+	ReadOperationCount = "87";
+	ReadTransferCount = "2027272";
+	SessionId = 1;
+	ThreadCount = 15;
+	UserModeTime = "0";
+	VirtualSize = "3816096464896";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "57610240";
+	WriteOperationCount = "103";
+	WriteTransferCount = "17368";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 43704
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=429 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=190440013653 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190709388302824715 --mojo-platform-channel-handle=9820 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015347.658606+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "43704";
+	HandleCount = 283;
+	KernelModeTime = "156250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17074";
+	PageFaults = 12694;
+	PageFileUsage = 20844;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 20844;
+	PeakVirtualSize = "3816078639104";
+	PeakWorkingSetSize = 46760;
+	Priority = 4;
+	PrivatePageCount = "21344256";
+	ProcessId = 43704;
+	QuotaNonPagedPoolUsage = 27;
+	QuotaPagedPoolUsage = 787;
+	QuotaPeakNonPagedPoolUsage = 27;
+	QuotaPeakPagedPoolUsage = 787;
+	ReadOperationCount = "70";
+	ReadTransferCount = "190320";
+	SessionId = 1;
+	ThreadCount = 13;
+	UserModeTime = "468750";
+	VirtualSize = "3816078639104";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "47882240";
+	WriteOperationCount = "86";
+	WriteTransferCount = "14248";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 11928
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=430 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=190451083289 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190709389239866564 --mojo-platform-channel-handle=8652 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015358.728129+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "11928";
+	HandleCount = 283;
+	KernelModeTime = "312500";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17070";
+	PageFaults = 12077;
+	PageFileUsage = 20620;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 20620;
+	PeakVirtualSize = "3816078643200";
+	PeakWorkingSetSize = 44780;
+	Priority = 4;
+	PrivatePageCount = "21114880";
+	ProcessId = 11928;
+	QuotaNonPagedPoolUsage = 27;
+	QuotaPagedPoolUsage = 783;
+	QuotaPeakNonPagedPoolUsage = 27;
+	QuotaPeakPagedPoolUsage = 783;
+	ReadOperationCount = "62";
+	ReadTransferCount = "205648";
+	SessionId = 1;
+	ThreadCount = 13;
+	UserModeTime = "468750";
+	VirtualSize = "3816078639104";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "45854720";
+	WriteOperationCount = "83";
+	WriteTransferCount = "14800";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: RobloxPlayerBeta.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Roblox\Versions\version-26c90be22e0d4758\RobloxPlayerBeta.exe
+PID: 23272
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "RobloxPlayerBeta.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Roblox\\Versions\\version-26c90be22e0d4758\\RobloxPlayerBeta.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015403.664814+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "RobloxPlayerBeta.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Roblox\\Versions\\version-26c90be22e0d4758\\RobloxPlayerBeta.exe";
+	Handle = "23272";
+	HandleCount = 109;
+	KernelModeTime = "625000";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "RobloxPlayerBeta.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "124";
+	OtherTransferCount = "1748";
+	PageFaults = 2295;
+	PageFileUsage = 17884;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 17892;
+	PeakVirtualSize = "4556210176";
+	PeakWorkingSetSize = 8496;
+	Priority = 8;
+	PrivatePageCount = "18313216";
+	ProcessId = 23272;
+	QuotaNonPagedPoolUsage = 11;
+	QuotaPagedPoolUsage = 402;
+	QuotaPeakNonPagedPoolUsage = 11;
+	QuotaPeakPagedPoolUsage = 456;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 4;
+	UserModeTime = "312500";
+	VirtualSize = "4556013568";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "8683520";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: RobloxPlayerBeta.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Roblox\Versions\version-26c90be22e0d4758\RobloxPlayerBeta.exe
+PID: 42356
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "RobloxPlayerBeta.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Roblox\\Versions\\version-26c90be22e0d4758\\RobloxPlayerBeta.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015407.103111+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "RobloxPlayerBeta.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Roblox\\Versions\\version-26c90be22e0d4758\\RobloxPlayerBeta.exe";
+	Handle = "42356";
+	HandleCount = 110;
+	KernelModeTime = "781250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "RobloxPlayerBeta.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "127";
+	OtherTransferCount = "1812";
+	PageFaults = 3169;
+	PageFileUsage = 19360;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 19832;
+	PeakVirtualSize = "4557828096";
+	PeakWorkingSetSize = 10412;
+	Priority = 8;
+	PrivatePageCount = "19824640";
+	ProcessId = 42356;
+	QuotaNonPagedPoolUsage = 11;
+	QuotaPagedPoolUsage = 402;
+	QuotaPeakNonPagedPoolUsage = 11;
+	QuotaPeakPagedPoolUsage = 456;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 4;
+	UserModeTime = "625000";
+	VirtualSize = "4557414400";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "10338304";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: C:\Program Files\Git\cmd\git.exe
+PID: 23708
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CommandLine = "\"C:\\Program Files\\Git\\cmd\\git.exe\" -c core.fsmonitor=false --no-optional-locks --no-pager stash list --pretty=format:%gd%x00%H%x00%ct%x00%s";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015414.279892+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	ExecutablePath = "C:\\Program Files\\Git\\cmd\\git.exe";
+	Handle = "23708";
+	HandleCount = 127;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "49";
+	OtherTransferCount = "1632";
+	PageFaults = 1961;
+	PageFileUsage = 1668;
+	ParentProcessId = 29152;
+	PeakPageFileUsage = 1676;
+	PeakVirtualSize = "4407480320";
+	PeakWorkingSetSize = 7576;
+	Priority = 8;
+	PrivatePageCount = "1708032";
+	ProcessId = 23708;
+	QuotaNonPagedPoolUsage = 8;
+	QuotaPagedPoolUsage = 160;
+	QuotaPeakNonPagedPoolUsage = 18;
+	QuotaPeakPagedPoolUsage = 160;
+	ReadOperationCount = "14";
+	ReadTransferCount = "1668";
+	SessionId = 1;
+	ThreadCount = 4;
+	UserModeTime = "156250";
+	VirtualSize = "4407480320";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "7757824";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: conhost.exe
+Application Source: C:\WINDOWS\system32\conhost.exe
+PID: 42532
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "conhost.exe";
+	CommandLine = "\\??\\C:\\WINDOWS\\system32\\conhost.exe 0x4";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015414.290952+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "conhost.exe";
+	ExecutablePath = "C:\\WINDOWS\\system32\\conhost.exe";
+	Handle = "42532";
+	HandleCount = 99;
+	KernelModeTime = "156250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "conhost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "33";
+	OtherTransferCount = "1246";
+	PageFaults = 1978;
+	PageFileUsage = 1228;
+	ParentProcessId = 23708;
+	PeakPageFileUsage = 1240;
+	PeakVirtualSize = "2203416489984";
+	PeakWorkingSetSize = 7556;
+	Priority = 8;
+	PrivatePageCount = "1257472";
+	ProcessId = 42532;
+	QuotaNonPagedPoolUsage = 8;
+	QuotaPagedPoolUsage = 110;
+	QuotaPeakNonPagedPoolUsage = 8;
+	QuotaPeakPagedPoolUsage = 111;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 2;
+	UserModeTime = "0";
+	VirtualSize = "2203416489984";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "7737344";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: steam.exe
+Application Source: C:\Program Files (x86)\Steam\steam.exe
+PID: 17560
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "steam.exe";
+	CommandLine = "\"C:\\Program Files (x86)\\Steam\\steam.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015421.901138+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "steam.exe";
+	ExecutablePath = "C:\\Program Files (x86)\\Steam\\steam.exe";
+	Handle = "17560";
+	HandleCount = 240;
+	KernelModeTime = "2968750";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "steam.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "588";
+	OtherTransferCount = "17332";
+	PageFaults = 73059;
+	PageFileUsage = 808700;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 821060;
+	PeakVirtualSize = "5325082624";
+	PeakWorkingSetSize = 284548;
+	Priority = 8;
+	PrivatePageCount = "828108800";
+	ProcessId = 17560;
+	QuotaNonPagedPoolUsage = 20;
+	QuotaPagedPoolUsage = 262;
+	QuotaPeakNonPagedPoolUsage = 20;
+	QuotaPeakPagedPoolUsage = 302;
+	ReadOperationCount = "134";
+	ReadTransferCount = "195384795";
+	SessionId = 1;
+	ThreadCount = 6;
+	UserModeTime = "12968750";
+	VirtualSize = "5311488000";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "284581888";
+	WriteOperationCount = "12";
+	WriteTransferCount = "990";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: dllhost.exe
+Application Source: C:\WINDOWS\system32\DllHost.exe
+PID: 43152
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "dllhost.exe";
+	CommandLine = "C:\\WINDOWS\\system32\\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015421.296149+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "dllhost.exe";
+	ExecutablePath = "C:\\WINDOWS\\system32\\DllHost.exe";
+	Handle = "43152";
+	HandleCount = 137;
+	KernelModeTime = "312500";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "dllhost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "102";
+	OtherTransferCount = "2362";
+	PageFaults = 2692;
+	PageFileUsage = 1828;
+	ParentProcessId = 1756;
+	PeakPageFileUsage = 1828;
+	PeakVirtualSize = "2203415662592";
+	PeakWorkingSetSize = 10348;
+	Priority = 8;
+	PrivatePageCount = "1871872";
+	ProcessId = 43152;
+	QuotaNonPagedPoolUsage = 10;
+	QuotaPagedPoolUsage = 108;
+	QuotaPeakNonPagedPoolUsage = 10;
+	QuotaPeakPagedPoolUsage = 108;
+	ReadOperationCount = "1";
+	ReadTransferCount = "4628";
+	SessionId = 1;
+	ThreadCount = 8;
+	UserModeTime = "0";
+	VirtualSize = "2203415646208";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "10592256";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 32536
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=431 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=190481170730 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190709390176908413 --mojo-platform-channel-handle=8704 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413015428.815615+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "32536";
+	HandleCount = 283;
+	KernelModeTime = "468750";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17070";
+	PageFaults = 12227;
+	PageFileUsage = 21072;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 21072;
+	PeakVirtualSize = "3816078643200";
+	PeakWorkingSetSize = 45208;
+	Priority = 4;
+	PrivatePageCount = "21577728";
+	ProcessId = 32536;
+	QuotaNonPagedPoolUsage = 27;
+	QuotaPagedPoolUsage = 783;
+	QuotaPeakNonPagedPoolUsage = 27;
+	QuotaPeakPagedPoolUsage = 783;
+	ReadOperationCount = "60";
+	ReadTransferCount = "205584";
+	SessionId = 1;
+	ThreadCount = 13;
+	UserModeTime = "156250";
+	VirtualSize = "3816078639104";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "46292992";
+	WriteOperationCount = "85";
+	WriteTransferCount = "14432";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: RuntimeBroker.exe
+Application Source: C:\Windows\System32\RuntimeBroker.exe
+PID: 42732
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "RuntimeBroker.exe";
+	CommandLine = "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140401.280992+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "RuntimeBroker.exe";
+	ExecutablePath = "C:\\Windows\\System32\\RuntimeBroker.exe";
+	Handle = "42732";
+	HandleCount = 267;
+	KernelModeTime = "1093750";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "RuntimeBroker.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "1628";
+	OtherTransferCount = "51315";
+	PageFaults = 11689;
+	PageFileUsage = 6636;
+	ParentProcessId = 1756;
+	PeakPageFileUsage = 6636;
+	PeakVirtualSize = "2203492421632";
+	PeakWorkingSetSize = 28476;
+	Priority = 8;
+	PrivatePageCount = "6795264";
+	ProcessId = 42732;
+	QuotaNonPagedPoolUsage = 17;
+	QuotaPagedPoolUsage = 215;
+	QuotaPeakNonPagedPoolUsage = 17;
+	QuotaPeakPagedPoolUsage = 215;
+	ReadOperationCount = "15";
+	ReadTransferCount = "34843";
+	SessionId = 1;
+	ThreadCount = 9;
+	UserModeTime = "468750";
+	VirtualSize = "2203492421632";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "29159424";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 26616
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140403.544819+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "26616";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1356;
+	PageFileUsage = 8360;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 8360;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4888;
+	Priority = 8;
+	PrivatePageCount = "8560640";
+	ProcessId = 26616;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4435968";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 12024
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140410.114152+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "12024";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1356;
+	PageFileUsage = 8360;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 8360;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4888;
+	Priority = 8;
+	PrivatePageCount = "8560640";
+	ProcessId = 12024;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4435968";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 24180
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2220 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=234267295533 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190711066544776274 --mojo-platform-channel-handle=10700 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140414.846961+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "24180";
+	HandleCount = 283;
+	KernelModeTime = "468750";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17066";
+	PageFaults = 12450;
+	PageFileUsage = 23268;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 23268;
+	PeakVirtualSize = "3816078643200";
+	PeakWorkingSetSize = 46160;
+	Priority = 4;
+	PrivatePageCount = "23826432";
+	ProcessId = 24180;
+	QuotaNonPagedPoolUsage = 27;
+	QuotaPagedPoolUsage = 791;
+	QuotaPeakNonPagedPoolUsage = 27;
+	QuotaPeakPagedPoolUsage = 791;
+	ReadOperationCount = "62";
+	ReadTransferCount = "206096";
+	SessionId = 1;
+	ThreadCount = 13;
+	UserModeTime = "312500";
+	VirtualSize = "3816078639104";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "47267840";
+	WriteOperationCount = "86";
+	WriteTransferCount = "14648";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 14108
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2221 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=234297379219 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190711067481818123 --mojo-platform-channel-handle=9808 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140444.930695+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "14108";
+	HandleCount = 283;
+	KernelModeTime = "468750";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17074";
+	PageFaults = 12460;
+	PageFileUsage = 23284;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 23284;
+	PeakVirtualSize = "3816078643200";
+	PeakWorkingSetSize = 46208;
+	Priority = 4;
+	PrivatePageCount = "23842816";
+	ProcessId = 14108;
+	QuotaNonPagedPoolUsage = 27;
+	QuotaPagedPoolUsage = 787;
+	QuotaPeakNonPagedPoolUsage = 27;
+	QuotaPeakPagedPoolUsage = 787;
+	ReadOperationCount = "77";
+	ReadTransferCount = "205808";
+	SessionId = 1;
+	ThreadCount = 13;
+	UserModeTime = "156250";
+	VirtualSize = "3816078639104";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "47316992";
+	WriteOperationCount = "87";
+	WriteTransferCount = "15288";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: None
+PID: 23092
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140521.670649+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	Handle = "23092";
+	HandleCount = 155;
+	KernelModeTime = "312500";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "97";
+	OtherTransferCount = "3202";
+	PageFaults = 2055;
+	PageFileUsage = 1816;
+	ParentProcessId = 35168;
+	PeakPageFileUsage = 1824;
+	PeakVirtualSize = "4409552896";
+	PeakWorkingSetSize = 7952;
+	Priority = 8;
+	PrivatePageCount = "1859584";
+	ProcessId = 23092;
+	QuotaNonPagedPoolUsage = 9;
+	QuotaPagedPoolUsage = 194;
+	QuotaPeakNonPagedPoolUsage = 26;
+	QuotaPeakPagedPoolUsage = 194;
+	ReadOperationCount = "28";
+	ReadTransferCount = "3281";
+	SessionId = 1;
+	ThreadCount = 4;
+	UserModeTime = "0";
+	VirtualSize = "4409552896";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "8142848";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: git.exe
+Application Source: None
+PID: 30712
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "git.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140521.729332+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "git.exe";
+	Handle = "30712";
+	HandleCount = 35;
+	KernelModeTime = "0";
+	Name = "git.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 523;
+	PageFileUsage = 880;
+	ParentProcessId = 23092;
+	PeakPageFileUsage = 880;
+	PeakVirtualSize = "11476992";
+	PeakWorkingSetSize = 2000;
+	Priority = 8;
+	PrivatePageCount = "901120";
+	ProcessId = 30712;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 74;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 74;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "11476992";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "2048000";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: conhost.exe
+Application Source: None
+PID: 38308
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "conhost.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140521.685743+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "conhost.exe";
+	Handle = "38308";
+	HandleCount = 99;
+	KernelModeTime = "156250";
+	Name = "conhost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "35";
+	OtherTransferCount = "1338";
+	PageFaults = 1961;
+	PageFileUsage = 1232;
+	ParentProcessId = 23092;
+	PeakPageFileUsage = 1236;
+	PeakVirtualSize = "2203416489984";
+	PeakWorkingSetSize = 7496;
+	Priority = 8;
+	PrivatePageCount = "1261568";
+	ProcessId = 38308;
+	QuotaNonPagedPoolUsage = 8;
+	QuotaPagedPoolUsage = 110;
+	QuotaPeakNonPagedPoolUsage = 8;
+	QuotaPeakPagedPoolUsage = 111;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 2;
+	UserModeTime = "0";
+	VirtualSize = "2203416489984";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "7675904";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 30240
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140526.234176+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "30240";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1356;
+	PageFileUsage = 8360;
+	ParentProcessId = 15144;
+	PeakPageFileUsage = 8360;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4888;
+	Priority = 8;
+	PrivatePageCount = "8560640";
+	ProcessId = 30240;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4435968";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 25784
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140529.620649+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "25784";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1356;
+	PageFileUsage = 8356;
+	ParentProcessId = 33380;
+	PeakPageFileUsage = 8356;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4888;
+	Priority = 8;
+	PrivatePageCount = "8556544";
+	ProcessId = 25784;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4435968";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 21952
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2225 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=234346119592 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190711071229985519 --mojo-platform-channel-handle=6300 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140533.670930+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "21952";
+	HandleCount = 283;
+	KernelModeTime = "468750";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17070";
+	PageFaults = 12366;
+	PageFileUsage = 20876;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 20876;
+	PeakVirtualSize = "3816078639104";
+	PeakWorkingSetSize = 45440;
+	Priority = 4;
+	PrivatePageCount = "21377024";
+	ProcessId = 21952;
+	QuotaNonPagedPoolUsage = 27;
+	QuotaPagedPoolUsage = 775;
+	QuotaPeakNonPagedPoolUsage = 27;
+	QuotaPeakPagedPoolUsage = 775;
+	ReadOperationCount = "85";
+	ReadTransferCount = "206208";
+	SessionId = 1;
+	ThreadCount = 13;
+	UserModeTime = "156250";
+	VirtualSize = "3816078639104";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "46530560";
+	WriteOperationCount = "86";
+	WriteTransferCount = "14168";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 30156
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2223 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=234346008513 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190711069355901821 --mojo-platform-channel-handle=13724 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140533.559877+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "30156";
+	HandleCount = 297;
+	KernelModeTime = "781250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17074";
+	PageFaults = 14532;
+	PageFileUsage = 24308;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 24328;
+	PeakVirtualSize = "3816107089920";
+	PeakWorkingSetSize = 53448;
+	Priority = 4;
+	PrivatePageCount = "24891392";
+	ProcessId = 30156;
+	QuotaNonPagedPoolUsage = 28;
+	QuotaPagedPoolUsage = 809;
+	QuotaPeakNonPagedPoolUsage = 39;
+	QuotaPeakPagedPoolUsage = 831;
+	ReadOperationCount = "287";
+	ReadTransferCount = "260920";
+	SessionId = 1;
+	ThreadCount = 16;
+	UserModeTime = "468750";
+	VirtualSize = "3816107085824";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "54730752";
+	WriteOperationCount = "307";
+	WriteTransferCount = "171160";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 38760
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2224 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=234346115298 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190711070292943670 --mojo-platform-channel-handle=9056 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140533.666808+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "38760";
+	HandleCount = 289;
+	KernelModeTime = "156250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17068";
+	PageFaults = 17583;
+	PageFileUsage = 31424;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 37292;
+	PeakVirtualSize = "3816095416320";
+	PeakWorkingSetSize = 63688;
+	Priority = 4;
+	PrivatePageCount = "32178176";
+	ProcessId = 38760;
+	QuotaNonPagedPoolUsage = 28;
+	QuotaPagedPoolUsage = 783;
+	QuotaPeakNonPagedPoolUsage = 28;
+	QuotaPeakPagedPoolUsage = 783;
+	ReadOperationCount = "95";
+	ReadTransferCount = "2027752";
+	SessionId = 1;
+	ThreadCount = 15;
+	UserModeTime = "625000";
+	VirtualSize = "3816095416320";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "59457536";
+	WriteOperationCount = "103";
+	WriteTransferCount = "17928";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: svchost.exe
+Application Source: None
+PID: 13064
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "svchost.exe";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140535.721753+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "svchost.exe";
+	Handle = "13064";
+	HandleCount = 286;
+	KernelModeTime = "468750";
+	Name = "svchost.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "199";
+	OtherTransferCount = "12375";
+	PageFaults = 4065;
+	PageFileUsage = 5388;
+	ParentProcessId = 1572;
+	PeakPageFileUsage = 5424;
+	PeakVirtualSize = "2203436404736";
+	PeakWorkingSetSize = 14972;
+	Priority = 13;
+	PrivatePageCount = "5517312";
+	ProcessId = 13064;
+	QuotaNonPagedPoolUsage = 14;
+	QuotaPagedPoolUsage = 104;
+	QuotaPeakNonPagedPoolUsage = 15;
+	QuotaPeakPagedPoolUsage = 105;
+	ReadOperationCount = "1";
+	ReadTransferCount = "6841";
+	SessionId = 0;
+	ThreadCount = 6;
+	UserModeTime = "156250";
+	VirtualSize = "2203435880448";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "15331328";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: Obsidian.exe
+Application Source: None
+PID: 38888
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "Obsidian.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Obsidian\\Obsidian.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140535.801274+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "Obsidian.exe";
+	Handle = "38888";
+	HandleCount = 0;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Obsidian.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 1356;
+	PageFileUsage = 8356;
+	ParentProcessId = 33380;
+	PeakPageFileUsage = 8356;
+	PeakVirtualSize = "2199229497344";
+	PeakWorkingSetSize = 4888;
+	Priority = 8;
+	PrivatePageCount = "8556544";
+	ProcessId = 38888;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 378;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 378;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199229497344";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "4435968";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 15536
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2226 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=234357559753 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190711072167027368 --mojo-platform-channel-handle=10480 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140545.111261+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "15536";
+	HandleCount = 283;
+	KernelModeTime = "625000";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17070";
+	PageFaults = 11824;
+	PageFileUsage = 20628;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 20628;
+	PeakVirtualSize = "3816078643200";
+	PeakWorkingSetSize = 43540;
+	Priority = 4;
+	PrivatePageCount = "21123072";
+	ProcessId = 15536;
+	QuotaNonPagedPoolUsage = 27;
+	QuotaPagedPoolUsage = 791;
+	QuotaPeakNonPagedPoolUsage = 27;
+	QuotaPeakPagedPoolUsage = 791;
+	ReadOperationCount = "79";
+	ReadTransferCount = "205912";
+	SessionId = 1;
+	ThreadCount = 13;
+	UserModeTime = "0";
+	VirtualSize = "3816078639104";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "44584960";
+	WriteOperationCount = "87";
+	WriteTransferCount = "14552";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: obs64.exe
+Application Source: C:\Program Files\obs-studio\bin\64bit\obs64.exe
+PID: 24056
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "obs64.exe";
+	CommandLine = "\"C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140546.406044+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "obs64.exe";
+	ExecutablePath = "C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe";
+	Handle = "24056";
+	HandleCount = 264;
+	KernelModeTime = "468750";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "obs64.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "946";
+	OtherTransferCount = "24237";
+	PageFaults = 6103;
+	PageFileUsage = 19152;
+	ParentProcessId = 33380;
+	PeakPageFileUsage = 19152;
+	PeakVirtualSize = "2203548426240";
+	PeakWorkingSetSize = 23488;
+	Priority = 8;
+	PrivatePageCount = "19611648";
+	ProcessId = 24056;
+	QuotaNonPagedPoolUsage = 23;
+	QuotaPagedPoolUsage = 358;
+	QuotaPeakNonPagedPoolUsage = 23;
+	QuotaPeakPagedPoolUsage = 358;
+	ReadOperationCount = "16";
+	ReadTransferCount = "8947";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "468750";
+	VirtualSize = "2203548426240";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "24051712";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: obs64.exe
+Application Source: C:\Program Files\obs-studio\bin\64bit\obs64.exe
+PID: 15036
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "obs64.exe";
+	CommandLine = "\"C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe\" ";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140558.392134+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "obs64.exe";
+	ExecutablePath = "C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe";
+	Handle = "15036";
+	HandleCount = 385;
+	KernelModeTime = "2500000";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "obs64.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "1692";
+	OtherTransferCount = "46635";
+	PageFaults = 11982;
+	PageFileUsage = 24964;
+	ParentProcessId = 33380;
+	PeakPageFileUsage = 25380;
+	PeakVirtualSize = "2203612708864";
+	PeakWorkingSetSize = 39640;
+	Priority = 8;
+	PrivatePageCount = "25563136";
+	ProcessId = 15036;
+	QuotaNonPagedPoolUsage = 29;
+	QuotaPagedPoolUsage = 451;
+	QuotaPeakNonPagedPoolUsage = 30;
+	QuotaPeakPagedPoolUsage = 455;
+	ReadOperationCount = "31";
+	ReadTransferCount = "192208";
+	SessionId = 1;
+	ThreadCount = 6;
+	UserModeTime = "1093750";
+	VirtualSize = "2203612708864";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "40591360";
+	WriteOperationCount = "19";
+	WriteTransferCount = "997";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 28676
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2227 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=234377018608 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190711073104069217 --mojo-platform-channel-handle=7776 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140604.569992+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "28676";
+	HandleCount = 297;
+	KernelModeTime = "312500";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17072";
+	PageFaults = 14262;
+	PageFileUsage = 23716;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 24188;
+	PeakVirtualSize = "3816107089920";
+	PeakWorkingSetSize = 52784;
+	Priority = 4;
+	PrivatePageCount = "24285184";
+	ProcessId = 28676;
+	QuotaNonPagedPoolUsage = 28;
+	QuotaPagedPoolUsage = 785;
+	QuotaPeakNonPagedPoolUsage = 40;
+	QuotaPeakPagedPoolUsage = 811;
+	ReadOperationCount = "262";
+	ReadTransferCount = "245016";
+	SessionId = 1;
+	ThreadCount = 16;
+	UserModeTime = "625000";
+	VirtualSize = "3816107085824";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "54050816";
+	WriteOperationCount = "304";
+	WriteTransferCount = "172376";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 44716
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2228 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=234377104599 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190711074041111066 --mojo-platform-channel-handle=12040 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140604.656394+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "44716";
+	HandleCount = 84;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "77";
+	OtherTransferCount = "8348";
+	PageFaults = 2140;
+	PageFileUsage = 6256;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 6256;
+	PeakVirtualSize = "2306761015296";
+	PeakWorkingSetSize = 7572;
+	Priority = 4;
+	PrivatePageCount = "6406144";
+	ProcessId = 44716;
+	QuotaNonPagedPoolUsage = 10;
+	QuotaPagedPoolUsage = 659;
+	QuotaPeakNonPagedPoolUsage = 10;
+	QuotaPeakPagedPoolUsage = 659;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "156250";
+	VirtualSize = "2306761015296";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "7700480";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 42912
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2229 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=234386193078 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190711074978152915 --mojo-platform-channel-handle=6516 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140613.745123+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "42912";
+	HandleCount = 5;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 921;
+	PageFileUsage = 760;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 764;
+	PeakVirtualSize = "2199040892928";
+	PeakWorkingSetSize = 3548;
+	Priority = 8;
+	PrivatePageCount = "778240";
+	ProcessId = 42912;
+	QuotaNonPagedPoolUsage = 3;
+	QuotaPagedPoolUsage = 46;
+	QuotaPeakNonPagedPoolUsage = 3;
+	QuotaPeakPagedPoolUsage = 46;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199040892928";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "3633152";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 14976
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2231 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=234387644243 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190711076852236613 --mojo-platform-channel-handle=12668 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140615.196157+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "14976";
+	HandleCount = 283;
+	KernelModeTime = "781250";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17076";
+	PageFaults = 13425;
+	PageFileUsage = 22680;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 22680;
+	PeakVirtualSize = "3816078639104";
+	PeakWorkingSetSize = 49064;
+	Priority = 4;
+	PrivatePageCount = "23224320";
+	ProcessId = 14976;
+	QuotaNonPagedPoolUsage = 27;
+	QuotaPagedPoolUsage = 799;
+	QuotaPeakNonPagedPoolUsage = 31;
+	QuotaPeakPagedPoolUsage = 799;
+	ReadOperationCount = "110";
+	ReadTransferCount = "271688";
+	SessionId = 1;
+	ThreadCount = 13;
+	UserModeTime = "468750";
+	VirtualSize = "3816078639104";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "50241536";
+	WriteOperationCount = "110";
+	WriteTransferCount = "18624";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 27392
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2230 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=234387641668 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190711075915194764 --mojo-platform-channel-handle=13228 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140615.193108+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "27392";
+	HandleCount = 297;
+	KernelModeTime = "1093750";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17074";
+	PageFaults = 14340;
+	PageFileUsage = 22268;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 23564;
+	PeakVirtualSize = "3816113377280";
+	PeakWorkingSetSize = 51100;
+	Priority = 4;
+	PrivatePageCount = "22802432";
+	ProcessId = 27392;
+	QuotaNonPagedPoolUsage = 28;
+	QuotaPagedPoolUsage = 805;
+	QuotaPeakNonPagedPoolUsage = 108;
+	QuotaPeakPagedPoolUsage = 817;
+	ReadOperationCount = "144";
+	ReadTransferCount = "351448";
+	SessionId = 1;
+	ThreadCount = 16;
+	UserModeTime = "0";
+	VirtualSize = "3816107085824";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "51052544";
+	WriteOperationCount = "195";
+	WriteTransferCount = "194432";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 32868
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2232 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=234387647033 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190711077789278462 --mojo-platform-channel-handle=14260 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140615.199921+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "32868";
+	HandleCount = 283;
+	KernelModeTime = "312500";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17070";
+	PageFaults = 12601;
+	PageFileUsage = 23236;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 23236;
+	PeakVirtualSize = "3816078639104";
+	PeakWorkingSetSize = 46948;
+	Priority = 4;
+	PrivatePageCount = "23793664";
+	ProcessId = 32868;
+	QuotaNonPagedPoolUsage = 27;
+	QuotaPagedPoolUsage = 803;
+	QuotaPeakNonPagedPoolUsage = 27;
+	QuotaPeakPagedPoolUsage = 803;
+	ReadOperationCount = "94";
+	ReadTransferCount = "191544";
+	SessionId = 1;
+	ThreadCount = 13;
+	UserModeTime = "468750";
+	VirtualSize = "3816078639104";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "48074752";
+	WriteOperationCount = "95";
+	WriteTransferCount = "15736";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: msedge.exe
+Application Source: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 10592
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "msedge.exe";
+	CommandLine = "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --type=renderer --extension-process --renderer-sub-type=extension --pdf-upsell-enabled --video-capture-use-gpu-memory-buffer --lang=en-US --js-flags --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=86 --time-ticks-at-unix-epoch=-1775829587550336 --launch-time-ticks=234408119640 --ssd-no-pressure-read-main-dll --metrics-shmem-handle=3204,i,4157454283660829600,4838689799859732691,2097152 --field-trial-handle=2336,i,12905065163009313695,6735983649236472665,262144 --variations-seed-version --pseudonymization-salt-handle=2352,i,18307097545290858337,5152969804053852778,4 --trace-process-track-uuid=3190709066897470508 --mojo-platform-channel-handle=7132 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140635.671893+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "msedge.exe";
+	ExecutablePath = "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe";
+	Handle = "10592";
+	HandleCount = 14;
+	KernelModeTime = "0";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "msedge.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "0";
+	OtherTransferCount = "0";
+	PageFaults = 930;
+	PageFileUsage = 752;
+	ParentProcessId = 34280;
+	PeakPageFileUsage = 752;
+	PeakVirtualSize = "2199041843200";
+	PeakWorkingSetSize = 3584;
+	Priority = 8;
+	PrivatePageCount = "770048";
+	ProcessId = 10592;
+	QuotaNonPagedPoolUsage = 2;
+	QuotaPagedPoolUsage = 48;
+	QuotaPeakNonPagedPoolUsage = 2;
+	QuotaPeakPagedPoolUsage = 48;
+	ReadOperationCount = "0";
+	ReadTransferCount = "0";
+	SessionId = 1;
+	ThreadCount = 1;
+	UserModeTime = "0";
+	VirtualSize = "2199041843200";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "3670016";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
+----------------------------------------------------------------------------------------------------
+Application Name: vivaldi.exe
+Application Source: C:\Users\Nitro 5\AppData\Local\Vivaldi\Application\vivaldi.exe
+PID: 37796
+
+Additional Information
+
+instance of Win32_Process
+{
+	Caption = "vivaldi.exe";
+	CommandLine = "\"C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe\" --type=renderer --extension-process --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2233 --time-ticks-at-unix-epoch=-1775829587643759 --running-vivaldi --launch-time-ticks=234428140711 --field-trial-handle=1904,i,13163238725475378850,10601392268988222041,262144 --variations-seed-version --pseudonymization-salt-handle=1908,i,8649210442661491256,18375104836713988460,4 --trace-process-track-uuid=3190711078726320311 --mojo-platform-channel-handle=8084 /prefetch:9";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20260413140655.692424+420";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AO3V53V";
+	Description = "vivaldi.exe";
+	ExecutablePath = "C:\\Users\\Nitro 5\\AppData\\Local\\Vivaldi\\Application\\vivaldi.exe";
+	Handle = "37796";
+	HandleCount = 283;
+	KernelModeTime = "312500";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "vivaldi.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Microsoft Windows 11 Pro|C:\\WINDOWS|\\Device\\Harddisk0\\Partition3";
+	OtherOperationCount = "168";
+	OtherTransferCount = "17074";
+	PageFaults = 12494;
+	PageFileUsage = 23336;
+	ParentProcessId = 42096;
+	PeakPageFileUsage = 23336;
+	PeakVirtualSize = "3816078643200";
+	PeakWorkingSetSize = 46240;
+	Priority = 4;
+	PrivatePageCount = "23896064";
+	ProcessId = 37796;
+	QuotaNonPagedPoolUsage = 27;
+	QuotaPagedPoolUsage = 779;
+	QuotaPeakNonPagedPoolUsage = 27;
+	QuotaPeakPagedPoolUsage = 779;
+	ReadOperationCount = "77";
+	ReadTransferCount = "206072";
+	SessionId = 1;
+	ThreadCount = 13;
+	UserModeTime = "156250";
+	VirtualSize = "3816078639104";
+	WindowsVersion = "10.0.26200";
+	WorkingSetSize = "47349760";
+	WriteOperationCount = "85";
+	WriteTransferCount = "15248";
+};
+
+----------------------------------------------------------------------------------------------------

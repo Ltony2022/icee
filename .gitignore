@@ -1,0 +1,51 @@
+.vscode/
+
+# pytest and venv
+.pytest_cache/
+
+# pyenv
+/venv/
+__pycache__
+
+
+.vs/
+/TestResults
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+/generatedDoxygen/
+/.idea
+pyuac.*
+/App/node_modules/
+**/node_modules/
+# /App/dist-electron/
+/App/dist/
+
+# db.sqlite3
+/server/db.sqlite3
+
+/App/.env
+/App/.env.sentry-build-plugin
+release/
+apps/server/dist/
+apps/server/build/
+
+init.*.ps1
+omp.cache
+pwsh.*.omp.cache
+
+apps/server/db.sqlite3
+proxy/dns_proxy.log
+frontend/dist-electron/
+apps/server/flashcard/dist/
+# src/helpers/FileHandle.py
+# src/helpers/ProcessWatcher.py
+# apps/server/dns_proxy/
+proxy/blocked_domains.txt
+proxy/dns_backup.json

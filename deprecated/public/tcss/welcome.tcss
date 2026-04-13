@@ -1,0 +1,20 @@
+startingSelection {
+    align: center middle;
+    background: $boost;
+    height: 15;
+    margin: 1;
+    min-width: 50;
+    padding: 1;
+}
+
+WelcomeScreen {
+    content-align: center middle;
+    align: center middle;
+    text-opacity: 60%;
+    height: 7;
+}
+
+Button {
+    width: 20;
+    margin: 1;
+}

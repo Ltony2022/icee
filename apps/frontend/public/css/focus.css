@@ -1,0 +1,21 @@
+.arc_svg {
+  height: 90vh;
+  margin: auto;
+  display: block;
+}
+
+.path_arc {
+  stroke-linecap: round;
+  stroke-width: 4;
+}
+
+path.grey {
+  stroke: lightgrey;
+}
+
+path.purple {
+  stroke: purple;
+  stroke-dasharray: calc(40 * 3.142 * 1.85);
+
+  /* adjust last number for variance */
+}

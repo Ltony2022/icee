@@ -1,0 +1,53 @@
+name: Build Windows Executable
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: apps/server/requirements.txt
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: apps/frontend/package-lock.json
+
+      - name: Install backend dependencies
+        run: |
+          pip install -r apps/server/requirements.txt
+          pip install pyinstaller
+
+      - name: Install frontend dependencies
+        working-directory: apps/frontend
+        run: npm ci
+
+      - name: Build backend executable
+        working-directory: apps/server
+        run: pyinstaller --noconfirm --clean backend.spec
+
+      - name: Build frontend and package installer
+        working-directory: apps/frontend
+        run: npm run build:frontend
+
+      - name: Upload installer artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: windows-installer
+          path: apps/frontend/release/**/*.exe
+          if-no-files-found: error
